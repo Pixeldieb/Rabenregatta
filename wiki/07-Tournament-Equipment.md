@@ -36,6 +36,11 @@ Tip: Make two or three gauges so the check at registration goes quickly.
 
 **The standard is a hand start.** The three builders of a heat kneel on the start board, hold their boats above the water and, on the signal, simply **let them drop**. That's all.
 
+<p align="center">
+  <img src="../assets/images/events/kayna/kayna-start-board.jpg" alt="Three children kneel on a wooden plank across the creek and hold their boats just above the water" width="440">
+  <br><em>Hand start: three builders kneel on the start board and let their boats drop on the signal.</em>
+</p>
+
 Why a hand start?
 
 - **Super simple.** No mechanism that can jam, no extra helper.

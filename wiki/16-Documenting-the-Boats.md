@@ -74,6 +74,11 @@ Store them in a shared folder straight after the event, together with the boat r
 
 ## Online gallery and fan culture
 
+<p align="center">
+  <img src="../assets/images/events/kayna/kayna-creek-swan-boat.jpg" alt="A swan-shaped boat floats on the creek under two lines of bunting" width="440">
+  <br><em>Every boat has its own character. The online gallery keeps them all, year after year.</em>
+</p>
+
 Put every boat into an **online gallery**: one card per boat, year after year. Over time, this becomes the **hall of fame** of your Rabenregatta. Fans start to have favourite boats, builders come back to beat their own records, and the whole village looks forward to next year.
 
 **One card per boat:**

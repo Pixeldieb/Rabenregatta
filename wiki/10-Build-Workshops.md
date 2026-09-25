@@ -60,6 +60,11 @@ The self-efficacy effect only happens if the builder is really the one who solve
 
 ## Test, sink, improve
 
+<p align="center">
+  <img src="../assets/images/events/kayna/kayna-raft-ice-cream-sticks.jpg" alt="A raft of ice cream sticks with a bamboo tube floats on the water" width="360">
+  <br><em>Simple materials, own idea, tested in the water. That's what building at Rabenregatta looks like.</em>
+</p>
+
 The **test harbour** is the heart of the workshop. Celebrate every test, including the ones that sink. A good phrase for helpers: *"Now we know something new!"*
 
 A **builder's logbook** helps older participants: write down what you changed and what happened. That is the engineering design process in action.

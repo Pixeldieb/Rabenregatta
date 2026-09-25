@@ -23,6 +23,11 @@ Start board → course with **sponsor chicanes** → finish board → catch net.
 
 Each sponsor sets up one themed chicane along the course. See [Sponsors and chicanes](14-Sponsors-and-Chicanes.md). Chicanes make the race exciting and unpredictable. A slow boat can overtake a fast one that gets caught in the leash curtain.
 
+<p align="center">
+  <img src="../assets/images/events/kayna/kayna-creek-sailboat.jpg" alt="A small boat with a blue sail floats down the creek under colourful bunting while a child follows it on the bank" width="440">
+  <br><em>Only the creek and the wind move the boats. Builders follow them along the bank.</em>
+</p>
+
 ## Heats
 
 - Boats race in **heats of three**, in the order of registration. The clusters in the [boat register](../templates/boat-register.md) are the heats.
@@ -115,5 +120,10 @@ The Audience Raven is chosen with **reusable talers** (tokens) **in the gallery*
 Every boat gets a **certificate** with its name, ideally with the boat photo. See [certificate template](../templates/certificate.md).
 
 ## Commentary
+
+<p align="center">
+  <img src="../assets/images/events/kayna/kayna-commentator.jpg" alt="The commentator with a microphone stands on the creek bank under bunting, children and spectators around him" width="440">
+  <br><em>The commentator with a wireless microphone walks along the course and announces every boat by its name.</em>
+</p>
 
 A good commentator with a microphone turns a creek into a stadium. Introduce each boat **by its name** and each chicane with its sponsor. *"And here comes Cork Express, 23 wine corks, 412 grams, heading straight for the dog school's leash curtain!"*

@@ -10,6 +10,11 @@ Everything else is detail. Always mention: **date, place, A4, reused materials, 
 
 ## Our look
 
+<p align="center">
+  <img src="../assets/images/events/kayna/kayna-banner.jpg" alt="Event banner of the Raben-Regatta at the forest pool in Kayna" width="100%">
+  <br><em>Our event banner: watercolour, paper boats, blue title, green label band.</em>
+</p>
+
 All posters, flyers, signs and banners follow the look of our event poster: watercolour, paper boats, blue title, green label band, lots of white space. Colours, fonts and files are in the [design guide](../assets/brand/README.md).
 
 ## Channels that work in villages

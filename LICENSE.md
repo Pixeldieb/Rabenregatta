@@ -23,4 +23,5 @@ This summary is for convenience only. It does not replace the legal text.
 ## Exceptions
 
 - Photos of people are **not** covered by this license unless it is stated explicitly. People in photos have their own rights.
+- The event photos in `assets/images/events/` are used with the photographers' permission and are **not** covered by this license. See the `CREDITS.md` in each folder.
 - Logos of third parties (sponsors, partners) are not covered.

@@ -28,6 +28,11 @@ The creek is your race track. A good spot makes everything easier.
 
 ## Walk the course before you decide
 
+<p align="center">
+  <img src="../assets/images/events/kayna/kayna-measuring-creek.jpg" alt="An organiser crouches in a shallow creek with a folding ruler to measure its width and depth" width="440">
+  <br><em>Scouting the course: measure width and depth, look at the banks. Only organisers step into the creek, participants never do.</em>
+</p>
+
 Go there **twice**: once in normal weather and once after rain. Water levels can change a lot.
 
 On your walk, check:

@@ -71,6 +71,11 @@ Be creative! The best chicanes tell a little story about the business.
 | Hairdresser | A "brush" of natural fibre string hanging into the water |
 | Village shop | A concrete shopping basket as an island |
 
+<p align="center">
+  <img src="../assets/images/events/kayna/kayna-boat-between-stones.jpg" alt="A small raft with a bamboo tube floats between two large stones in the creek" width="440">
+  <br><em>Two stones, one gap: natural stone makes a perfect chicane. It's inert and can go into the creek right away.</em>
+</p>
+
 **Best materials:** natural stone (granite, sandstone), fired clay bricks and clinker, untreated wood. They are inert, so they don't release anything into the water, and they can go in the creek right away.
 
 **Please avoid** old car tyres, rubber mats and anything that releases microplastics or other harmful substances. Also avoid loose straw or hay, which washes away.

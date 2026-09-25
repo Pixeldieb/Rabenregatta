@@ -84,6 +84,12 @@ After registration, every boat goes into the **gallery**: tables or benches near
 
 **Our pragmatic trick:** every boat stands on a **white A4 sheet**. It shows at a glance that the boat fits the footprint, it makes the boat stand out, and you can write the number on the sheet in big letters.
 
+<p align="center">
+  <img src="../assets/images/events/kayna/kayna-gallery-audience-vote.jpg" alt="Boats made of corks, wood and a yoghurt pot stand on white A4 sheets on a bench, with a letter board for the audience prize" width="440">
+  <br><em>The gallery: every boat on its white A4 sheet, the sign for the audience prize behind them.</em>
+</p>
+
+
 - The boats wait there until their cluster is called.
 - **The audience vote takes place in the gallery.** Next to each boat is a voting container with the same number. People put their talers into the container of their favourite boat. See [Race format](08-Race-Format.md#the-audience-vote-gold-and-silver-talers).
 - After its race, a boat goes back to its place in the gallery until the award ceremony.

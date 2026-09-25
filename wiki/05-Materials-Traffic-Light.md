@@ -20,6 +20,11 @@ Natural or harmless materials. Best choice.
 | Wooden dowels, toothpicks, skewers, clothes pegs | Joints and masts |
 | Starch paste, casein glue | Home-made, harmless glue |
 
+<p align="center">
+  <img src="../assets/images/events/kayna/kayna-raft-ice-cream-sticks.jpg" alt="A raft of ice cream sticks with a bamboo tube, a toothpick mast and a red wooden ladybird floats on the water" width="440">
+  <br><em>Ice cream sticks, a piece of bamboo, a toothpick mast and a wooden ladybird: a raft made from reused and natural materials. The skewer underneath works as a keel.</em>
+</p>
+
 ## 🟡 Yellow: allowed if reused and firmly attached
 
 Not ideal for nature, but fine if they are **reused** (not bought new) and **cannot break off**.
