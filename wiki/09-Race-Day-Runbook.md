@@ -9,7 +9,7 @@ A sample schedule for a race day with about 30–50 boats. Adjust the times to y
 | **08:00** | Helpers arrive. Check water level against the agreed maximum | Creek & safety |
 | 08:15 | Set up start board, finish board, catch net, test harbour | Creek team |
 | 08:15 | Sponsors set up their chicanes; creek team checks each one | Sponsors + creek team |
-| 08:30 | Set up building stations (Euroboxes), race office, photo station, **gallery** with voting containers, first aid, hand-washing station | All |
+| 08:30 | Set up building stations (craft mats on tables and benches, Euroboxes), mobile power station, sound system, race office, photo station, **gallery** with voting containers, first aid, hand-washing station | All |
 | 09:30 | **Helper briefing** (15 min): roles, safety, emergency plan, zones | Lead |
 | **10:00** | **Opening**: welcome, rules in 3 minutes, safety notes, introduce sponsors, chicanes and all prizes | Lead + commentator |
 | 10:15 | **Building stations open.** Tool briefing, then build and test in the test harbour | Workshop team |
@@ -31,7 +31,7 @@ A sample schedule for a race day with about 30–50 boats. Adjust the times to y
 | Role | Number | Task |
 |---|---|---|
 | Lead | 1 | Overview, decisions, contact for authorities and emergency services |
-| Commentator | 1 | Megaphone, introduce boats, keep the mood up |
+| Commentator | 1 | Sound system with microphone (megaphone as backup), introduce boats, keep the mood up |
 | Race office | 2–3 | Registration, boat register (= race order), calling heats, times, disqualifications, taler count, prizes |
 | Photo station | 1 | Three photos per boat at registration, then photos at the chicanes |
 | Gallery | 1 | Watches the boats (no one touches them), helps with the audience vote |

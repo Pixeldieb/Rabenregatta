@@ -54,6 +54,7 @@ A clothes peg can hold a sail, a mast or a flag. Wooden pegs are on the green li
 | **Flour paste** (1 part flour, 3 parts water, heat while stirring until thick) | Decoration, paper on wood | No, only above water |
 | **Beeswax** (warm it and rub it in) | Makes wood, paper and cloth water-repellent | Water-repellent |
 | **Wood glue D3** (yellow list) | Strong wooden joints | Yes, when fully dry (24 h) |
+| **Hot glue** (yellow list, power tool station) | Quick fixing while you lash or peg | Can loosen in cold water. Always add string, a peg or a nail |
 
 ## ✅ Check yourself
 

@@ -16,7 +16,7 @@
 | Cotton cloth scrap as sail | 🟢 |
 | Beeswax | 🟢 |
 
-**Tools:** coping saw or pull saw, hand drill, rasp or sandpaper, clamp, safety glasses, gloves
+**Tools:** hand saw (or jigsaw at the power tool station, with an adult), cordless drill at the power tool station, rasp or sandpaper, clamp, safety glasses, gloves
 
 ## The idea
 

@@ -21,7 +21,7 @@ The creek is your race track. A good spot makes everything easier.
 - [ ] Shade, seating, a meeting point
 - [ ] Toilets (nearby building or rented)
 - [ ] Parking and access for emergency vehicles
-- [ ] Power outlet (optional, for PA system)
+- [ ] Power: our mobile power station runs the sound system and the power tool station. An outlet nearby is a good backup
 - [ ] A **rain alternative** nearby (barn, hall, fire station)
 
 ## Walk the course before you decide

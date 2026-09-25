@@ -17,8 +17,27 @@ Rabenregatta is a family event near water, with tools. A little planning keeps e
 
 - Give a short **tool briefing** at every workshop: how to hold a saw, where your other hand goes, gloves and safety glasses when drilling or sawing.
 - Children only use tools that fit their age, under supervision.
-- **No hot glue guns, no power tools** for children. Adults may use them at a separate, supervised station.
-- Knives only with a blunt tip, and only after a briefing.
+- **Cutters and knives:** on a craft mat, cutting away from the body, with a cut-resistant glove on the holding hand. Younger children use scissors instead; older kids after a briefing.
+- **Garden pruners and branch saws:** always close the pruners after use. Saw branches clamped or held by a second person, never on your knee.
+- **Paper punches:** great for flags and decoration. Collect the punched bits, they must not end up in the creek.
+
+### Power tool station
+
+Cordless drill, cordless jigsaw, hot glue guns and the safe cardboard saw are used **only at a separate power tool station** (Blue 3), with **one adult who supervises only this station** and decides who may use what.
+
+| Tool | Who | Rules |
+|---|---|---|
+| **Safe cardboard saw** | Children after a short briefing | Designed not to cut skin, but still: one child at a time, hands flat |
+| **Hot glue gun** | Children with supervision | Low-temperature guns for kids. Heat-proof mat. Never touch the tip or fresh glue. Cold water and burn gel ready |
+| **Cordless drill** | Older kids with 1:1 supervision, adults | Workpiece clamped, never held in the hand. Safety glasses |
+| **Cordless jigsaw** | Adults, or teens with 1:1 supervision | Workpiece clamped. Safety glasses. Remove the battery when changing blades |
+
+General rules for the station:
+- Long hair tied back, no loose sleeves or scarves, safety glasses on.
+- Power comes from the mobile power station. Cables run so nobody trips; the power station, batteries and chargers stay out of the rain.
+- Craft mats on the table protect it from hot glue and cutter blades.
+- The supervisor can close the station at any time, for example when it gets too crowded.
+- Power tools help with **hard steps**, but the idea stays with the child. The adult never builds the boat.
 
 ### Health
 

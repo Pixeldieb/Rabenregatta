@@ -56,7 +56,8 @@ One person can hold several roles.
 
 - [ ] Send the press release. See [press release template](../marketing/press-release.md).
 - [ ] Recruit race-day helpers. Assign roles.
-- [ ] Organise food, drinks, toilets, first aid, a PA system or megaphone.
+- [ ] Organise food, drinks, toilets, first aid. Reserve tents, tables and benches.
+- [ ] Check the mobile power station and the sound system with microphone.
 - [ ] Collect sponsor prizes, pack the prize bags. Make certificates.
 - [ ] Make talers and voting containers, print the ice cream vouchers.
 

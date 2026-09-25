@@ -17,7 +17,7 @@ The tips on this page apply to both.
 | **Group size** | 8–15 builders, 1 helper per 5 builders |
 | **Number** | 2–4 sessions in the 6 weeks before the race |
 | **Place** | School workshop, village hall, fire station, barn, outdoors in good weather |
-| **Equipment** | The [Eurobox kit](06-Eurobox-System.md) plus a test harbour |
+| **Equipment** | The [Eurobox kit](06-Eurobox-System.md) plus a test harbour. Cover tables and benches with craft mats, especially borrowed ones |
 
 ## Sample session (2.5 hours)
 
@@ -25,7 +25,7 @@ The tips on this page apply to both.
 |---|---|---|
 | 0:00 | **Arrive** | Name tags. Everyone picks up an A4 sheet: this is your boat's footprint |
 | 0:10 | **Wonder** | Short experiment: what floats, what sinks? Test objects in the harbour. See [Why things float](../tutorials/01-why-things-float.md) |
-| 0:25 | **Tool briefing** | How to use saw, drill and knife safely (5–10 min) |
+| 0:25 | **Tool briefing** | Saw, cutter, pruners, hammer; the rules of the power tool station (5–10 min) |
 | 0:35 | **Explore materials** | Look at the green and yellow boxes. Touch, weigh, test |
 | 0:45 | **Sketch** | Draw your idea on the A4 sheet. No right or wrong |
 | 1:00 | **Build** | Build the first version |

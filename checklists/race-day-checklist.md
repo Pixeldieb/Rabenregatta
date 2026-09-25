@@ -8,7 +8,8 @@
 - [ ] Printed: boat register (clusters of three), registration list, certificates, emergency sheet, site map, prize catalogue
 - [ ] Talers, voting containers, ice cream vouchers, prize bags packed
 - [ ] Sponsors reminded: set-up time, place of their chicane, award ceremony
-- [ ] Megaphone charged
+- [ ] **Mobile power station fully charged**, sound system and microphone tested, megaphone as backup charged
+- [ ] Cordless tool batteries charged
 - [ ] Helpers reminded of time and place
 
 ## Morning: at the creek
@@ -31,7 +32,8 @@
 - [ ] **Gallery** with numbered voting containers
 - [ ] Info stand with silver talers
 - [ ] Gauge and material check: A4 gauges, traffic light poster
-- [ ] Building stations: blue, green, yellow, grey boxes, test harbour
+- [ ] Building stations: tables and benches covered with **craft mats**; Blue 1 + 2, green, yellow, grey boxes, test harbour
+- [ ] **Power tool station** (Blue 3): own table, power checked, batteries charged, supervisor assigned
 - [ ] First aid: red box, first aider present, emergency sheet visible
 - [ ] Hand-washing station
 - [ ] Toilets accessible

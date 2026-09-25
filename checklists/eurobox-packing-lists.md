@@ -1,38 +1,63 @@
 # Eurobox Packing Lists
 
-For a kit for about 20 builders at the same time. The complete list including infrastructure, race course and marketing is the [bill of materials](bill-of-materials.md). Print each list and put it in a sleeve on the front of the box. See [Eurobox system](../wiki/06-Eurobox-System.md).
+For a kit for about 20 builders at the same time. Batteries of the cordless tools: charge them the day before. The complete list including infrastructure, race course and marketing is the [bill of materials](bill-of-materials.md). Print each list and put it in a sleeve on the front of the box. See [Eurobox system](../wiki/06-Eurobox-System.md).
 
 Columns: **Target** = quantity that belongs in the box · **Out** = counted before the event · **Back** = counted after.
 
 ---
 
-## 🔵 Blue 1: Cutting and shaping (600 × 400 × 220)
+Items marked ➕ are recommended additions to the core tool list.
+
+## 🔵 Blue 1: Cutting (600 × 400 × 220)
 
 | Item | Target | Out | Back |
 |---|---|---|---|
-| Coping saws, with spare blades | 6 | | |
-| Japanese pull saws, small | 2 | | |
-| Mitre box / saw guide | 2 | | |
-| Hand drills (manual) + drill bits 2–8 mm | 3 | | |
-| Awls | 6 | | |
-| Rasps / files | 4 | | |
-| Sanding blocks | 6 | | |
-| Carving knives with blunt tip (for older kids, only after briefing) | 4 | | |
+| Hand saws, small | 4 | | |
+| Garden pruners | 4 | | |
+| Branch saws (folding) | 2 | | |
+| Scissors (incl. 2 left-handed) | 8 | | |
+| Cutters (snap-off blade) + spare blades | 6 + 1 pack | | |
+| Knives | 4 | | |
+| Paper punches (assorted shapes) | 5 | | |
+| Sanding sponges | 10 | | |
 
-## 🔵 Blue 2: Measuring, holding, assembling (600 × 400 × 220)
+## 🔵 Blue 2: Assembling and measuring (600 × 400 × 220)
 
 | Item | Target | Out | Back |
 |---|---|---|---|
-| Screw clamps / quick clamps | 10 | | |
-| Folding rulers / tape measures | 4 | | |
-| Rulers 30 cm | 6 | | |
-| Try squares | 3 | | |
-| Scissors (incl. left-handed) | 8 | | |
-| Small hammers | 4 | | |
-| Screwdrivers (set) | 2 | | |
-| Pliers / side cutters | 3 | | |
-| Pencils, carpenter's pencils | 20 | | |
-| A4 paper templates (card) | 10 | | |
+| Hammers, small | 4 | | |
+| Pliers | 3 | | |
+| Side cutters | 2 | | |
+| ➕ Awls (pre-drilling corks and cartons) | 6 | | |
+| ➕ Screw clamps / quick clamps | 10 | | |
+| ➕ Folding rulers / tape measures | 4 | | |
+| ➕ Rulers 30 cm | 6 | | |
+| ➕ Pencils | 20 | | |
+| ➕ A4 card templates | 10 | | |
+| Craft mats (lie flat at the bottom) | 25 | | |
+
+*Nails are in Grey 1.*
+
+## 🔵 Blue 3: Power tool station (600 × 400 × 320)
+
+Only at the supervised power tool station. See [Safety](../wiki/04-Safety-and-Nature.md#power-tool-station).
+
+| Item | Target | Out | Back |
+|---|---|---|---|
+| Cordless drill/driver | 2 | | |
+| Drill bits (wood 2–10 mm) + bit set | 1 set each | | |
+| Cordless jigsaw | 1 | | |
+| Jigsaw blades (wood, fine) | 1 pack | | |
+| Batteries (charged) + chargers | 2 per tool + 1 charger each | | |
+| Hot glue guns (low-temperature models for kids) | 4 | | |
+| Hot glue sticks | 1 pack | | |
+| Heat-proof mats / silicone pads | 4 | | |
+| Safe cardboard saw (child-safe electric saw for cardboard) | 1 | | |
+| Multi-socket extension (with switch) | 1 | | |
+
+*Power comes from the mobile power station (see [bill of materials](bill-of-materials.md#4-infrastructure)).*
+
+*The safe cardboard saw may not fit into the box. Transport it in its own case.*
 
 ## 🟢 Green 1 + 2: Natural materials (600 × 400 × 320)
 
@@ -83,6 +108,8 @@ Columns: **Target** = quantity that belongs in the box · **Out** = counted befo
 |---|---|---|---|
 | First aid kit (checked, not expired) | 1 | | |
 | Extra plasters, tweezers, tick remover | 1 set | | |
+| Burn gel / cooling pads (hot glue burns) | 1 set | | |
+| Cut-resistant gloves (for cutters and knives) | 4 pairs | | |
 | Safety glasses, child and adult sizes | 15 | | |
 | Work gloves, child and adult sizes | 15 pairs | | |
 | Sunscreen | 2 | | |
@@ -105,7 +132,7 @@ Columns: **Target** = quantity that belongs in the box · **Out** = counted befo
 | Clipboards, pens | 6 / 10 | | |
 | Stopwatches (or phones) | 3 | | |
 | Kitchen scale (1 g, up to 5 kg) + ruler 50 cm | 1 each | | |
-| Megaphone + batteries (charged) | 1 | | |
+| Megaphone + batteries (backup for the sound system) | 1 | | |
 | "No photo" stickers / wristbands | 20 | | |
 | Cash box + receipt book (grown-up start fees, donations) | 1 | | |
 | Kit logbook | 1 | | |

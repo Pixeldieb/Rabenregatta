@@ -16,34 +16,53 @@ Everything you need for a Rabenregatta, in one list. Use it to plan, borrow, buy
 
 ## 1. Tool boxes
 
-### 🔵 Blue 1: Cutting and shaping (Eurobox 600 × 400 × 220)
+Our core tool list comes from practice. Items marked ➕ are recommended additions.
+
+### 🔵 Blue 1: Cutting (Eurobox 600 × 400 × 220)
 
 | Item | Qty | Spec / note | Type | Source |
 |---|---|---|---|---|
-| Coping saws | 6 | Child-friendly, with spare blades | R | Buy |
-| Spare coping saw blades | 2 packs | Wood blades | C | Buy |
-| Japanese pull saws, small | 2 | For thicker wood, adults or older kids | R | Buy |
-| Mitre box / saw guide | 2 | Holds wood for straight cuts | R | Buy / Build |
-| Hand drills (manual) | 3 | With drill bits 2–8 mm | R | Buy |
-| Awls | 6 | For pre-drilling corks and cartons | R | Buy |
-| Rasps / files | 4 | Wood | R | Buy |
-| Sanding blocks | 6 | Wood or cork | R | Buy / Build |
-| Carving knives, blunt tip | 4 | Older kids only, after briefing | R | Buy |
-
-### 🔵 Blue 2: Measuring, holding, assembling (Eurobox 600 × 400 × 220)
-
-| Item | Qty | Spec / note | Type | Source |
-|---|---|---|---|---|
-| Screw clamps / quick clamps | 10 | Small to medium | R | Buy / Borrow |
-| Folding rulers / tape measures | 4 | | R | Buy |
-| Rulers 30 cm | 6 | | R | Buy |
-| Try squares | 3 | | R | Buy |
+| Hand saws, small | 4 | Fine teeth for offcuts and slats | R | Buy / Borrow |
+| Garden pruners | 4 | For branches, reed, bamboo | R | Borrow |
+| Branch saws, folding | 2 | For thicker branches and driftwood | R | Borrow |
 | Scissors | 8 | Including 2 left-handed | R | Buy |
-| Small hammers | 4 | | R | Buy |
-| Screwdriver sets | 2 | | R | Buy |
-| Pliers / side cutters | 3 | For wire | R | Buy |
-| Pencils, carpenter's pencils | 20 | | C | Buy |
-| A4 card templates | 10 | Show the footprint while building | R | Build |
+| Cutters (snap-off blade) | 6 | On a craft mat, with cut-resistant glove | R | Buy |
+| Spare cutter blades | 1 pack | | C | Buy |
+| Knives | 4 | Older kids after briefing, or adults | R | Buy |
+| Paper punches | 5 | Assorted shapes, for flags, sails and decoration. Collect the punched bits | R | Buy / Donate |
+| Sanding sponges | 10 | Medium and fine | C | Buy |
+
+### 🔵 Blue 2: Assembling and measuring (Eurobox 600 × 400 × 220)
+
+| Item | Qty | Spec / note | Type | Source |
+|---|---|---|---|---|
+| Hammers, small | 4 | Nails are in Grey 1 | R | Buy / Borrow |
+| Pliers | 3 | | R | Buy / Borrow |
+| Side cutters | 2 | For wire | R | Buy / Borrow |
+| ➕ Awls | 6 | Pre-drilling corks and cartons | R | Buy |
+| ➕ Screw clamps / quick clamps | 10 | Hold the work, free both hands | R | Buy / Borrow |
+| ➕ Folding rulers / tape measures | 4 | | R | Buy |
+| ➕ Rulers 30 cm | 6 | | R | Buy |
+| ➕ Pencils | 20 | | C | Buy |
+| ➕ A4 card templates | 10 | Show the footprint while building | R | Build |
+| Craft mats | 25 | About 60 × 40 cm, lie flat at the bottom of the box. Protect borrowed tables and benches; also the base for cutters and hot glue | R | Buy |
+
+### 🔵 Blue 3: Power tool station (Eurobox 600 × 400 × 320)
+
+Used only at the **supervised power tool station**. See [Safety](../wiki/04-Safety-and-Nature.md#power-tool-station).
+
+| Item | Qty | Spec / note | Type | Source |
+|---|---|---|---|---|
+| Cordless drill/driver | 2 | Light model, with clutch | R | Borrow / Sponsor |
+| Drill bits and bit set | 1 set each | Wood 2–10 mm | R/C | Buy |
+| Cordless jigsaw | 1 | With fine wood blades | R | Borrow / Sponsor |
+| Jigsaw blades | 1 pack | | C | Buy |
+| Batteries + chargers | 2 per tool, 1 charger each | Charged the day before | R | Borrow |
+| Hot glue guns | 4 | **Low-temperature** models for kids | R | Buy |
+| Hot glue sticks | 1 pack | Matching the guns' temperature | C | Buy |
+| Heat-proof mats / silicone pads | 4 | Rest the guns here | R | Buy |
+| Safe cardboard saw | 1 | Child-safe electric saw that cuts cardboard but not skin; own case | R | Buy / Sponsor |
+| Multi-socket extension with switch | 1 | For glue guns, chargers and cardboard saw | R | Borrow |
 
 ### 🔴 Red: Safety and first aid (Eurobox 400 × 300 × 120)
 
@@ -51,6 +70,8 @@ Everything you need for a Rabenregatta, in one list. Use it to plan, borrow, buy
 |---|---|---|---|---|
 | First aid kit | 1 | e.g. DIN 13157 in Germany; check expiry dates | R/C | Buy |
 | Plasters, tweezers, tick remover | 1 set | Extra | C | Buy |
+| Burn gel / cooling pads | 1 set | For hot glue burns | C | Buy |
+| Cut-resistant gloves | 4 pairs | For cutters and knives | R | Buy |
 | Safety glasses | 15 | Child and adult sizes | R | Buy |
 | Work gloves | 15 pairs | Child and adult sizes | R | Buy |
 | Sunscreen | 2 | | C | Buy |
@@ -141,7 +162,7 @@ The race office needs more than one box. Split it into **office** and **gallery*
 | Stopwatches | 3 | Or phones | R | Buy / Own |
 | Kitchen scale | 1 | 1 g steps, up to 5 kg | R | Buy / Borrow |
 | Ruler 50 cm | 1 | For boat height | R | Buy |
-| Megaphone + batteries | 1 | Charged | R | Borrow (fire brigade) |
+| Megaphone + batteries | 1 | **Backup** for the sound system, charged | R | Borrow (fire brigade) |
 | "No photo" stickers or wristbands | 20 | One colour | C | Buy |
 | Cash box + receipt book | 1 | Grown-up start fees, donations | R/C | Buy |
 | Kit logbook | 1 | | R | |
@@ -182,7 +203,7 @@ The race office needs more than one box. Split it into **office** and **gallery*
 | First aid | 1 | 3 × 3 m, or a corner of the race office tent | R | Borrow |
 | Tent weights | 4 per tent | Water canisters or concrete weights; pegs don't hold everywhere | R | Borrow |
 | **Tables and benches** | | | | |
-| Beer tent sets (table + 2 benches) | 8 | Building stations (5), spectators and breaks (3) | R | Borrow |
+| Beer tent sets (table + 2 benches) | 9 | Building stations (5), power tool station (1), spectators and breaks (3). **Cover building tables and benches with craft mats** (see Blue 2) | R | Borrow |
 | Extra tables | 12 | Gallery (7–8 tables for 50 boats), race office (2), photo station (1), info stand (1) | R | Borrow |
 | **Water and hygiene** | | | | |
 | Hand-washing station | 1–2 | 20 l canister with tap, bucket, soap, paper towels | R/C | Build / Borrow |
@@ -190,8 +211,10 @@ The race office needs more than one box. Split it into **office** and **gallery*
 | Drinking water | 1 station | Canisters or tap nearby | R | Borrow |
 | Waste bins, sorted | 3 | Paper, packaging, residual waste; plus a "back into the material box" crate | R | Borrow |
 | **Power and sound** | | | | |
-| Megaphone or small PA system | 1 | Commentator | R | Borrow (fire brigade, club) |
-| Extension cable reel | 1 | Only if PA needs power | R | Borrow |
+| **Mobile power station** (portable battery) | 1 | Always with us. Powers the sound system, the power tool station (glue guns, cardboard saw, chargers) and phone charging. Quiet and independent of an outlet. Charge it fully the day before | R | Buy / Sponsor |
+| Sound system with microphone | 1 | For the commentator: announcing boats, heats and prizes. Wireless mic is handy along the course | R | Buy / Borrow |
+| Extension cable reel / multi-sockets | 1–2 | Outdoor rated, fully unrolled, cables secured against tripping | R | Borrow |
+| Backup power | – | Outlet nearby (village hall, fire station) in case the battery runs low | – | Borrow |
 | **Site** | | | | |
 | Spectator zone marking | 100 m | Reusable rope with pennants (bunting) instead of barrier tape | R | Borrow / Build |
 | Directional signs | 5 | Parking, toilets, registration, first aid, gallery | R | Build |
@@ -277,8 +300,9 @@ The race office needs more than one box. Split it into **office** and **gallery*
 
 | Box | Size | Contents |
 |---|---|---|
-| 🔵 Blue 1 | 600 × 400 × 220 | Cutting and shaping |
-| 🔵 Blue 2 | 600 × 400 × 220 | Measuring, holding, assembling |
+| 🔵 Blue 1 | 600 × 400 × 220 | Cutting |
+| 🔵 Blue 2 | 600 × 400 × 220 | Assembling and measuring |
+| 🔵 Blue 3 | 600 × 400 × 320 | Power tool station |
 | 🟢 Green 1 + 2 | 2 × 600 × 400 × 320 | Natural materials |
 | 🟡 Yellow 1 + 2 | 2 × 600 × 400 × 320 | Reused materials |
 | ⚪ Grey 1 | 400 × 300 × 120 | Connectors |
@@ -287,17 +311,19 @@ The race office needs more than one box. Split it into **office** and **gallery*
 | ⚫ Black 1 | 600 × 400 × 220 | Race office |
 | ⚫ Black 2 | 600 × 400 × 320 | Gallery, vote and photo station |
 
-**11 boxes.** Plus the long items that don't fit in boxes: planks, stakes, raven sticks, catch net, A4 gauges, test harbour, banner.
+**12 boxes.** Plus the items that don't fit in boxes: safe cardboard saw (own case), planks, stakes, raven sticks, catch net, A4 gauges, test harbour, banner.
 
 ## What to buy first
 
 With a small budget, prioritise like this:
 
 1. **Safety:** first aid kit, safety glasses, gloves
-2. **Core tools:** coping saws, hand drills, awls, clamps, scissors
-3. **Race course:** planks, stakes, cord (catch net borrowed)
-4. **Race office:** cloakroom tickets, kitchen scale, stopwatches (phones work too)
-5. **Euroboxes:** start with what you have; buy boxes over time
-6. **Banner:** once there's a sponsor for it
+2. **Core hand tools:** hand saws, scissors, hammers, pliers, garden pruners, sanding sponges
+3. **Power tool station:** hot glue guns first (cheap and most used), then borrow drill and jigsaw
+4. **Mobile power station and sound system:** if you don't have one yet, ask a sponsor
+5. **Race course:** planks, stakes, cord (catch net borrowed)
+6. **Race office:** cloakroom tickets, kitchen scale, stopwatches (phones work too)
+7. **Euroboxes:** start with what you have; buy boxes over time
+8. **Banner:** once there's a sponsor for it
 
 Everything else: borrow, build or ask a sponsor. See the [budget template](../templates/budget.md).

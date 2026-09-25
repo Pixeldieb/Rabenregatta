@@ -8,7 +8,7 @@ All tools and materials travel in **Euroboxes**: stackable, standard-sized plast
 
 | Colour | Contents | Symbol idea |
 |---|---|---|
-| 🔵 **Blue** | **Tools**: saws, drills, clamps, scissors | Hammer |
+| 🔵 **Blue** | **Tools**: Blue 1 cutting, Blue 2 assembling, Blue 3 power tool station | Hammer |
 | 🟢 **Green** | **Natural materials**: wood, cork, bamboo, natural string | Leaf |
 | 🟡 **Yellow** | **Reused materials**: bottles, cartons, fabric scraps | Recycling arrows |
 | ⚪ **Grey** | **Connectors and consumables**: rubber bands, dowels, nails, glue, sandpaper | Screw |
@@ -43,7 +43,8 @@ For tool boxes, a **shadow board** in the box is very helpful. A foam insert or 
 
 | Box | Quantity |
 |---|---|
-| 🔵 Blue: tools | 2 × 600 × 400 × 220 |
+| 🔵 Blue 1 + 2: hand tools | 2 × 600 × 400 × 220 |
+| 🔵 Blue 3: power tool station | 1 × 600 × 400 × 320 |
 | 🟢 Green: natural materials | 2 × 600 × 400 × 320 |
 | 🟡 Yellow: reused materials | 2 × 600 × 400 × 320 |
 | ⚪ Grey: connectors | 2 × 400 × 300 × 120 |
@@ -51,7 +52,7 @@ For tool boxes, a **shadow board** in the box is very helpful. A foam insert or 
 | ⚫ Black 1: race office | 1 × 600 × 400 × 220 |
 | ⚫ Black 2: gallery, vote, photo station | 1 × 600 × 400 × 320 |
 
-**Total: 11 boxes.** They fit in a car boot or on a hand truck. Everything else (tents, tables, race course, banner) is in the [bill of materials](../checklists/bill-of-materials.md).
+**Total: 12 boxes.** They fit in a car boot or on a hand truck. Everything else (tents, tables, race course, banner) is in the [bill of materials](../checklists/bill-of-materials.md).
 
 ## Share the kit
 

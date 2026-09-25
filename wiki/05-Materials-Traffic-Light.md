@@ -31,6 +31,7 @@ Not ideal for nature, but fine if they are **reused** (not bought new) and **can
 | Rubber bands | Firmly attached, count them out and back in |
 | Screws, nails, wire | Not sharp-ended on the outside |
 | Wood glue (PVA, water-resistant D3) | Small amounts, fully dry before the race |
+| Hot glue | Small dots, for joints that are also held mechanically (string, peg, nail). Hot glue is plastic and can loosen in water, so check after the soak test |
 | Water-based paints | Fully dry. No flaking |
 | Old fabric with synthetic fibres | Only as a sail, well hemmed |
 | Aluminium foil, tins | Folded edges, no sharp parts |
@@ -47,7 +48,7 @@ These break into tiny pieces, are toxic or are impossible to collect.
 | **Batteries, motors, electronics** | Toxic materials. Also: boats are powered by nature only |
 | **Solvent-based paints, varnish, spray paint** | Toxic for water life |
 | **Oil, grease, petroleum jelly** | Forms films on water |
-| **Hot glue in large amounts, silicone** | Plastic that peels off |
+| **Silicone, large lumps of hot glue** | Plastic that peels off |
 | **Loose small parts** (beads, small plastic toys) | Get lost in the creek |
 | **Anything new bought only for the boat that is not green** | Against the spirit of the event |
 

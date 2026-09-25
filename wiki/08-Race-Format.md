@@ -115,4 +115,4 @@ Every boat gets a **certificate** with its name, ideally with the boat photo. Se
 
 ## Commentary
 
-A good commentator with a megaphone turns a creek into a stadium. Introduce each boat **by its name** and each chicane with its sponsor. *"And here comes Cork Express, 23 wine corks, 412 grams, heading straight for the dog school's leash curtain!"*
+A good commentator with a microphone turns a creek into a stadium. Introduce each boat **by its name** and each chicane with its sponsor. *"And here comes Cork Express, 23 wine corks, 412 grams, heading straight for the dog school's leash curtain!"*
