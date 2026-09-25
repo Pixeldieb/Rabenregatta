@@ -7,6 +7,7 @@ Rabenregatta is a family event near water, with tools. A little planning keeps e
 ### Water
 
 - **Children under 10 are always accompanied** by an adult near the water.
+- **Fence off steep creek banks** so nobody falls down the slope. We use **black rope or black tape** on stakes. It's clearly visible but doesn't clash with the look like red-white warning tape.
 - Mark a **spectator zone**. Keep people away from steep or slippery banks.
 - **Only designated helpers** (the "ravens") go into the creek. They wear rubber boots or waders and a high-visibility vest.
 - **Builders never step into the creek**, not even to rescue their own boat. They use the raven stick from the bank.

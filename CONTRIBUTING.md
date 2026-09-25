@@ -7,7 +7,7 @@ Thank you for helping! Rabenregatta gets better every time a community runs it a
 - **Event reports** – What worked in your village? What did not? Add a short report to `wiki/reports/` (e.g. `2027-ourvillage.md`).
 - **Better templates** – clearer rules, better forms, new checklists.
 - **Translations** – copy a file, add a language suffix (e.g. `official-rules.de.md`), translate it.
-- **Equipment ideas** – a smarter start gate, a better catch net. Photos and drawings are welcome.
+- **Equipment ideas** – a better start board, a better catch net, nice bunting. Photos and drawings are welcome.
 - **Tutorials** – explain a building principle. Please explain *principles*, not step-by-step plans for a whole boat. Participants must design their own.
 - **Sources** – found a good study? Add it to [wiki/Sources.md](wiki/Sources.md).
 

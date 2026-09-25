@@ -8,6 +8,10 @@ In a village, word of mouth is your strongest channel. Marketing for Rabenregatt
 
 Everything else is detail. Always mention: **date, place, A4, reused materials, free for kids and teens, ice cream**.
 
+## Our look
+
+All posters, flyers, signs and banners follow the look of our event poster: watercolour, paper boats, blue title, green label band, lots of white space. Colours, fonts and files are in the [design guide](../assets/brand/README.md).
+
 ## Channels that work in villages
 
 | Channel | How | Template |

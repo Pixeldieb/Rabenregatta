@@ -66,7 +66,7 @@ The Rabenregatta is about building something yourself and finding out what you c
 
 5.2 **Course.** The course includes chicanes set up by sponsors. Chicanes are part of the course.
 
-5.3 **Start.** Boats are placed upstream of the start gate. The starter opens the gate for all boats at once.
+5.3 **Start.** The builders hold their boats above the water at the start board. On the signal, they **let them drop**. Only dropping is allowed: no pushing, no throwing, no hands in the water.
 
 5.4 **Finish and time.** A boat has finished when its front passes the finish line. Every boat's time is recorded.
 

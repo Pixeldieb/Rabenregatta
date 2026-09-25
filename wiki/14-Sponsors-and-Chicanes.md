@@ -104,6 +104,7 @@ This is a great way to create identification. The sponsor's team makes their own
 ## Recognition without a sponsor show
 
 - A **small wooden sign** at each chicane: *"Leash curtain, by [dog school]"*
+- **Sponsor bunting:** pennants with the sponsor's name, painted together at a workshop and hung along the course. Pretty, reusable, and much nicer than a banner
 - The commentator introduces each chicane before the first heat
 - Prize named after the sponsor; the sponsor hands it over
 - Photos of the chicane and the boats passing it go to the sponsor afterwards

@@ -16,12 +16,13 @@
 
 - [ ] **Water level checked** against the maximum mark. Go / no go
 - [ ] Course walked: no broken glass, no new obstacles
-- [ ] Start board placed, secured with stakes, gate tested
+- [ ] Start board placed, secured with stakes, **tested with the weight of two adults**, doesn't rock
 - [ ] Finish board placed, finish line visible
 - [ ] **Catch net installed** and tested with a test boat
 - [ ] **Chicanes** set up by sponsors, checked and passable
 - [ ] Ice cream vendor on site / informed
-- [ ] Spectator zone marked
+- [ ] **Creek banks fenced off** with black rope or black tape where the slope is steep; spectator zone marked
+- [ ] Bunting hung over the creek
 - [ ] Test harbour filled
 
 ## Morning: stations

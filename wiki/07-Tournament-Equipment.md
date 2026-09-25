@@ -7,7 +7,7 @@ The race equipment is simple and mostly made of wood. You can build it in an aft
 | Item | Purpose |
 |---|---|
 | **A4 gauge** | Checks the boat size |
-| **Start board with release gate** | Lets all boats start at the same moment |
+| **Start board** | Builders kneel on it and drop their boats on the signal (hand start) |
 | **Finish board** | Marks the finish line clearly |
 | **Catch net** | Catches every boat after the finish. **Mandatory** |
 | **Raven sticks** | Long poles for builders to free their stuck boat from the bank |
@@ -32,25 +32,34 @@ The gauge checks the rule: the boat must fit on an A4 footprint. There is no hei
 
 Tip: Make two or three gauges so the check at registration goes quickly.
 
-## Start board with release gate
+## Start board
 
-A plank lies across the creek. Boats wait behind a gate that is lifted all at once.
+**The standard is a hand start.** The three builders of a heat kneel on the start board, hold their boats above the water and, on the signal, simply **let them drop**. That's all.
 
-**Materials (for a creek up to about 3 m wide):**
+Why a hand start?
 
-- 1 plank, untreated spruce or larch, about 30–40 mm thick, 20–25 cm wide, **creek width + 1 m** long (at least 50 cm resting on each bank)
-- 1 thin batten or board as the **gate**, same length as the creek width
-- 2–3 hinges or strong cord loops
-- 1 pull cord
-- 4 stakes to secure the plank on the banks
+- **Super simple.** No mechanism that can jam, no extra helper.
+- **No contact with the water.** Builders only let go; nobody reaches into the creek.
+- **The builders start their own boat.** That's a big moment for them.
 
-**Build:**
+**Rules at the start:**
 
-1. Attach the gate batten under the upstream side of the plank with hinges or cord loops, so that it hangs down into the water like a curtain.
-2. Tie the pull cord to the gate. When someone pulls it, the gate swings up out of the water.
-3. Optional: mark **start lanes** on the plank with paint (numbers 1–6).
+- Hold the boat above the water, let it drop on "go". **Only dropping**: no pushing, no throwing, no hands in the water.
+- All three boats are dropped at the same moment.
+- If a boat lands upside down, it's part of the race. It can use its one rescue.
 
-**Use:** Boats are placed in the water **upstream** of the gate. The current presses them gently against it. On "3 – 2 – 1 – go!", the starter pulls the cord, the gate swings up and all boats start together.
+**The board must carry three kneeling children.**
+
+- A thick, stable plank (spruce or larch, at least 40–50 mm thick, 25–30 cm wide), or two planks side by side screwed onto cross battens. Length: creek width + 1 m, with at least 50 cm resting firmly on each bank.
+- Secured with stakes so it can't rock or slide. Test it with the weight of two adults before the event.
+- As low above the water as possible, so boats don't drop too far.
+- At a spot where the creek is shallow and the banks are flat.
+- One adult stands next to the start board during every heat.
+- Optional: mark three **drop spots** on the board with paint (1, 2, 3).
+
+### Variant: start gate
+
+If boats should wait in the water and start without anyone touching them, you can add a **release gate**: a thin batten hanging from the upstream side of the plank into the water on hinges or cord loops. Boats wait behind it; a pull cord lifts the gate, and all boats start together. It needs an extra helper and more building work, which is why we use the hand start.
 
 ## Finish board
 
@@ -98,7 +107,7 @@ Chicanes are provided by sponsors and must meet the [chicane rules](14-Sponsors-
 
 ## About the boards
 
-The start and finish boards are **lines**, not bridges. Nobody should stand or walk on them unless they were built and tested as a footbridge.
+The **finish board** is a line, not a bridge. Nobody stands on it. The **start board** is built to carry three kneeling children (see above), but it is not a footbridge for crossing the creek.
 
 If you want a **footbridge for people** to cross the creek:
 

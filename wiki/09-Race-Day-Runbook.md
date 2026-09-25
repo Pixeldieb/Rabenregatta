@@ -38,7 +38,7 @@ A sample schedule for a race day with about 30–50 boats. Adjust the times to y
 | Timekeeper | 1 | Time of every boat |
 | Info stand | 1 | Silver talers for spectators, questions, lost children |
 | Gauge check | 1–2 | A4 gauge, material check, weigh and measure |
-| Starter | 1 | Places boats, pulls the start gate |
+| Starter | 1 | Helps the three builders onto the start board, gives the signal, starts the stopwatch. Stays next to the children |
 | Finish judge | 1 | Watches the finish line, supports the timekeeper |
 | Ravens (course helpers) | 2–4 | Along the course. Hand raven sticks to builders for their one rescue, make sure nobody steps into the creek, report rescues. Recover stuck boats after the heat, in boots |
 | Catch net | 1–2 | Recover boats, bring them back to their builders |
@@ -48,9 +48,9 @@ A sample schedule for a race day with about 30–50 boats. Adjust the times to y
 ## Running a heat
 
 1. The race office calls the next cluster: *"Numbers 7, 8 and 9, please bring your boats from the gallery to the start!"* and already announces the cluster after that.
-2. The builders carry their boats to the start and place them behind the gate, or hand them to the starter.
+2. The builders carry their boats to the start and kneel on the start board, one on each drop spot.
 3. The commentator introduces each boat **by its name**.
-4. The starter counts down: "3 – 2 – 1 – go!", pulls the gate and starts the stopwatch.
+4. The builders hold their boats above the water. The starter counts down: "3 – 2 – 1 – go!". All three **let their boats drop**, and the stopwatch starts.
 5. Builders and spectators walk along the bank. **No one touches the boats.** Exception: each builder may rescue their own boat once, with the raven stick, from the bank.
 6. The timekeeper calls out each boat's time. The race office writes down times, rescues and disqualifications.
 7. The catch net team returns the boats. They go back into the gallery.

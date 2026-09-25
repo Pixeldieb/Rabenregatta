@@ -1,23 +1,22 @@
-<h1 align="center">🐦‍⬛ Rabenregatta</h1>
-
 <p align="center">
-  <strong>Build your own boat. Race it on the village creek. Discover what you can do.</strong>
+  <img src="assets/brand/header.svg" alt="Raben-Regatta: Build your own boat. Race it on the village creek." width="100%">
 </p>
 
 <p align="center">
-  <a href="LICENSE.md"><img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg" alt="License: CC BY-SA 4.0"></a>
-  <a href="https://github.com/Pixeldieb/Rabenregatta/wiki"><img src="https://img.shields.io/badge/handbook-Wiki-0969da?logo=github" alt="Handbook in the Wiki"></a>
-  <img src="https://img.shields.io/badge/open-event%20kit-2e7d32" alt="Open event kit">
+  <a href="LICENSE.md"><img src="https://img.shields.io/badge/license-CC%20BY--SA%204.0-1F2A5C" alt="License: CC BY-SA 4.0"></a>
+  <a href="https://github.com/Pixeldieb/Rabenregatta/wiki"><img src="https://img.shields.io/badge/handbook-Wiki-1E6DB5?logo=github" alt="Handbook in the Wiki"></a>
+  <img src="https://img.shields.io/badge/open-event%20kit-3B9A3F" alt="Open event kit">
   <img src="https://img.shields.io/badge/UN%20SDG-4%20Quality%20Education-C5192D" alt="UN SDG 4: Quality Education">
   <br>
-  <img src="https://img.shields.io/badge/free%20for%20kids-ages%200%E2%80%9318-f9a825" alt="Free for kids aged 0–18">
-  <img src="https://img.shields.io/badge/boat%20size-DIN%20A4-8e24aa" alt="Boat size: DIN A4">
-  <img src="https://img.shields.io/badge/materials-reused%20%26%20natural-558b2f" alt="Materials: reused and natural">
-  <img src="https://img.shields.io/badge/leave%20no%20trace-100%25%20recovered-00897b" alt="Leave no trace: 100% recovered">
+  <img src="https://img.shields.io/badge/free%20for%20kids-ages%200%E2%80%9318-F6C343" alt="Free for kids aged 0–18">
+  <img src="https://img.shields.io/badge/boat%20size-DIN%20A4-6CB4E4" alt="Boat size: DIN A4">
+  <img src="https://img.shields.io/badge/materials-reused%20%26%20natural-62B246" alt="Materials: reused and natural">
+  <img src="https://img.shields.io/badge/leave%20no%20trace-100%25%20recovered-3FB39B" alt="Leave no trace: 100% recovered">
+  <img src="https://img.shields.io/badge/ice%20cream-for%20every%20kid-F07A4A" alt="Ice cream for every kid">
   <br>
-  <img src="https://img.shields.io/badge/docs-Markdown-000000?logo=markdown" alt="Docs in Markdown">
-  <img src="https://img.shields.io/badge/language-English-lightgrey" alt="Language: English">
-  <img src="https://img.shields.io/github/last-commit/Pixeldieb/Rabenregatta?label=last%20update" alt="Last update">
+  <img src="https://img.shields.io/badge/docs-Markdown-1F2A5C?logo=markdown" alt="Docs in Markdown">
+  <img src="https://img.shields.io/badge/language-English-6CB4E4" alt="Language: English">
+  <img src="https://img.shields.io/github/last-commit/Pixeldieb/Rabenregatta?label=last%20update&color=1E6DB5" alt="Last update">
 </p>
 
 <p align="center">
@@ -92,6 +91,7 @@ This repository is an **open kit**. Use it to run a Rabenregatta in your own vil
 | Promote the event | [Marketing templates](marketing/) |
 | Print forms and checklists | [Templates](templates/) · [Checklists](checklists/) |
 | Find the science | [Sources](wiki/Sources.md) |
+| Make posters and signs in our look | [Design guide](assets/brand/README.md) |
 
 > [!TIP]
 > The full handbook is in the **[Wiki](https://github.com/Pixeldieb/Rabenregatta/wiki)**. Its source files are in the [`wiki/`](wiki/Home.md) folder. Edit them there, and every change is published to the Wiki automatically.
@@ -121,7 +121,7 @@ Rabenregatta/
 ├── checklists/            ← bill of materials, packing lists, race day, after the event
 ├── marketing/             ← poster text, press release, social posts, letters
 ├── gallery/               ← online boat gallery and records board
-├── assets/                ← logos, photos, drawings
+├── assets/                ← design guide, header, photos, drawings
 ├── scripts/               ← helper that publishes wiki/ to the GitHub Wiki
 ├── CONTRIBUTING.md        ← how to share your improvements
 ├── CODE_OF_CONDUCT.md
@@ -132,7 +132,7 @@ Everything is written in **Markdown** (`.md`). You can edit it in any text edito
 
 ## Share back
 
-Did you run a Rabenregatta? Did you find a better start gate or a clever material trick? Please tell us. See [CONTRIBUTING.md](CONTRIBUTING.md).
+Did you run a Rabenregatta? Did you find a better start board or a clever material trick? Please tell us. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 

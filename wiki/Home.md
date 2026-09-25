@@ -1,3 +1,5 @@
+![Raben-Regatta: Build your own boat. Race it on the village creek.](../assets/brand/header.png)
+
 # Rabenregatta Handbook
 
 Welcome! This handbook explains how to run a Rabenregatta in your own village. It covers the first idea, the race day and the tidy-up afterwards.

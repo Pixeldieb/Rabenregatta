@@ -1,6 +1,6 @@
 # Poster Text
 
-Three versions. Choose one, add a raven drawing and a photo of a boat, and print on recycled paper.
+Three versions. Choose one, lay it out in our look (see [design guide](../assets/brand/README.md): Caveat Brush for the title, Nunito for the text, watercolour paper boats) and print on recycled paper.
 
 ---
 

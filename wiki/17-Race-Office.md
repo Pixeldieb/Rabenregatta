@@ -80,7 +80,9 @@ Children may register as many boats as they like, but each child gets **one ice 
 
 ## The gallery
 
-After registration, every boat goes into the **gallery**: tables or a line of boards near the start, with each boat's number clearly visible.
+After registration, every boat goes into the **gallery**: tables or benches near the start, with each boat's number clearly visible.
+
+**Our pragmatic trick:** every boat stands on a **white A4 sheet**. It shows at a glance that the boat fits the footprint, it makes the boat stand out, and you can write the number on the sheet in big letters.
 
 - The boats wait there until their cluster is called.
 - **The audience vote takes place in the gallery.** Next to each boat is a voting container with the same number. People put their talers into the container of their favourite boat. See [Race format](08-Race-Format.md#the-audience-vote-gold-and-silver-talers).

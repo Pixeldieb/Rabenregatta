@@ -17,7 +17,9 @@ The creek is your race track. A good spot makes everything easier.
 ## The surroundings
 
 - [ ] Space for **building stations** (tent or tables), the race office and the **gallery**, near the start
-- [ ] Space for spectators along the course, away from steep banks
+- [ ] Space for spectators along the course, away from steep banks. Steep banks are fenced off with black rope or tape
+- [ ] Trees or posts on both banks to hang bunting across the creek
+- [ ] A flat, shallow spot for the start board, where three children can kneel safely
 - [ ] Shade, seating, a meeting point
 - [ ] Toilets (nearby building or rented)
 - [ ] Parking and access for emergency vehicles

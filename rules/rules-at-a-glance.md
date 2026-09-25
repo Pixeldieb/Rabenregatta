@@ -25,7 +25,8 @@ Corks, wood, cartons, bottles, string, cloth.
 
 ### 5. 🌊 Powered by nature
 
-Only the **water** and the **wind** move your boat.
+At the start, hold your boat above the water and **just let it drop**.
+Then only the **water** and the **wind** move your boat.
 No pushing, no blowing, no motors.
 
 ### 6. 👀 Hands off

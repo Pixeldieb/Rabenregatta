@@ -147,6 +147,7 @@ Used at the power tool station, children with an adult volunteer next to them. S
 | Number cards for the containers | 60 | | |
 | A4 grid mat for the photo station | 1 | | |
 | Neutral photo backdrop, small tripod | 1 each | | |
+| White A4 sheets for the gallery (one per boat) | boats + 20% | | |
 | Prize bags | | | |
 | Rubber ducks, numbered (optional) | | | |
 

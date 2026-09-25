@@ -177,6 +177,7 @@ The race office needs more than one box. Split it into **office** and **gallery*
 | Number cards for containers | 60 | Large numbers, laminated, swappable | R | Build |
 | A4 grid mat | 1 | A4 frame with 1 cm grid | R | Build |
 | Neutral photo backdrop | 1 | Light fabric or board | R | Donate |
+| **White A4 sheets** | boats + 20% | Every boat stands on one in the gallery. Shows the footprint at a glance and makes the number easy to see | C | Donate (scrap paper, one side blank) |
 | Small tripod / phone holder | 1 | | R | Buy / Own |
 | White umbrella | 1 | Soft light, shade | R | Borrow |
 | Prize bags | number of prizes | Paper or cloth | C/R | Buy / Sponsor |
@@ -216,7 +217,10 @@ The race office needs more than one box. Split it into **office** and **gallery*
 | Extension cable reel / multi-sockets | 1–2 | Outdoor rated, fully unrolled, cables secured against tripping | R | Borrow |
 | Backup power | – | Outlet nearby (village hall, fire station) in case the battery runs low | – | Borrow |
 | **Site** | | | | |
-| Spectator zone marking | 100 m | Reusable rope with pennants (bunting) instead of barrier tape | R | Borrow / Build |
+| **Bank barriers** | 100–200 m | **Black rope or black tape** along steep creek banks, so nobody falls down the slope. Black instead of red-white warning tape, so it doesn't clash with the look | R/C | Buy / Borrow |
+| Posts for the barriers | 20–40 | Wooden stakes or reusable metal pins | R | Borrow / Build |
+| **Bunting over the creek** | 50–100 m | Fabric pennants in the event colours, strung across the course. Makes the creek a race track | R | Build |
+| **Sponsor bunting** | 1 per sponsor | Pennants with the sponsor's name, painted at a workshop, hung along the course or at their chicane | R | Build / Sponsor |
 | Directional signs | 5 | Parking, toilets, registration, first aid, gallery | R | Build |
 | Site map poster | 2 | At race office and entrance | C | Print |
 | "Rules at a glance" poster | 3 | Building stations, race office, start | C | Print |
@@ -233,12 +237,11 @@ The race office needs more than one box. Split it into **office** and **gallery*
 | Item | Qty | Spec / note | Type | Source |
 |---|---|---|---|---|
 | **Start** | | | | |
-| Start plank | 1 | Untreated spruce or larch, 30–40 mm thick, 20–25 cm wide, creek width + 1 m long | R | Donate (sawmill) / Buy |
-| Gate batten | 1 | Thin board, length = creek width | R | Donate |
-| Hinges or cord loops | 3 | | R | Buy |
-| Pull cord | 5 m | | R | Buy |
+| Start board | 1 | Must carry three kneeling children: spruce or larch, 40–50 mm thick, 25–30 cm wide (or two planks on cross battens), creek width + 1 m long | R | Donate (sawmill) / Buy |
+| Paint for drop spots 1–3 | 1 small tin | Water-based | C | Buy |
+| Start gate (optional variant) | 1 | Gate batten, 3 hinges, 5 m pull cord | R | Build |
 | **Finish** | | | | |
-| Finish plank | 1 | Same as start plank | R | Donate / Buy |
+| Finish plank | 1 | Spruce or larch, 30–40 mm, creek width + 1 m; only a line, nobody stands on it | R | Donate / Buy |
 | Finish line paint | 1 small tin | Water-based, white | C | Buy |
 | Flag line | 1 | Light string with small flags above the water | R | Build |
 | **Fixing** | | | | |
@@ -260,6 +263,7 @@ The race office needs more than one box. Split it into **office** and **gallery*
 | **Chicanes** | | | | |
 | Chicanes | 1 per sponsor | Built and brought by the sponsors; natural stone, clinker, untreated wood preferred | R | Sponsor |
 | Chicane signs | 1 per sponsor | Small wooden sign: "Leash curtain, by …" | R | Build |
+| **Sign for the audience prize** | 1 | e.g. letter board or painted sign in the gallery | R | Build / Borrow |
 | **Spare parts bag** | 1 | Screws, cord, spare hinge, cable ties | C | |
 
 ---
@@ -282,6 +286,7 @@ The race office needs more than one box. Split it into **office** and **gallery*
 | **Sponsors** | | | | |
 | Sponsor sheets | 1 per sponsor | [Template](../templates/sponsor-sheet.md) | C | Print |
 | Sponsor board at the entrance | 1 | All sponsors, same size, with their chicane and prize | R | Build |
+| Sponsor bunting | see infrastructure | Pennants with sponsor names | | |
 | Chicane signs | see race course | | | |
 | Sponsor prizes | 1 per sponsor | Paid or provided by the sponsor | – | Sponsor |
 | Extras for every prize bag | per sponsor offer | e.g. €20 book voucher from the dog school | – | Sponsor |

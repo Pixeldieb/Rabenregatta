@@ -27,7 +27,8 @@ Each sponsor sets up one themed chicane along the course. See [Sponsors and chic
 
 - Boats race in **heats of three**, in the order of registration. The clusters in the [boat register](../templates/boat-register.md) are the heats.
 - Only **registered** boats are called.
-- **Every boat is timed.** The starter starts the stopwatch when the gate opens. A timekeeper at the finish calls out each boat's time, and the race office writes it down.
+- **Hand start.** The three builders kneel on the start board, hold their boats above the water and let them drop on the signal. Only dropping: no pushing, no throwing, no hands in the water.
+- **Every boat is timed.** The starter starts the stopwatch on the signal. A timekeeper at the finish calls out each boat's time, and the race office writes it down.
 - The **fastest time** wins the Fastest Raven prize. All times together decide other prizes too, like the Underdog (slowest boat to finish).
 
 **Optional final:** For a grand finale, let the three fastest boats race again at the end. Their final order decides places 1–3.
