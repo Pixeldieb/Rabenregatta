@@ -10,7 +10,7 @@ The race equipment is simple and mostly made of wood. You can build it in an aft
 | **Start board with release gate** | Lets all boats start at the same moment |
 | **Finish board** | Marks the finish line clearly |
 | **Catch net** | Catches every boat after the finish. **Mandatory** |
-| **Raven sticks** | Long poles for helpers to free stuck boats |
+| **Raven sticks** | Long poles for builders to free their stuck boat from the bank |
 | **Test harbour** | A tub of water for test floats before the start |
 | **Stakes and straps** | Hold the boards in place |
 | **Chicanes** | Themed obstacles, provided by sponsors. See [Sponsors and chicanes](14-Sponsors-and-Chicanes.md) |
@@ -74,7 +74,7 @@ Backup: a second helper with a landing net a few metres below the catch net.
 
 ## Raven sticks
 
-Poles about 1.5–2 m long, with a soft end (for example old cloth wrapped tightly and tied with string, or a firmly fixed old tennis ball). Helpers use them to push stuck boats back into the current from the bank.
+Poles about 1.5–2 m long, with a soft end (for example old cloth wrapped tightly and tied with string, or a firmly fixed old tennis ball). **Builders** use them to free or set upright their own boat once per race, **from the bank**. Course helpers hand them out and take them back. Have at least 3, one per boat in a heat, and keep them light enough for children.
 
 ## Test harbour
 

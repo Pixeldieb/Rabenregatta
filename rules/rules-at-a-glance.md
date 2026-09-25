@@ -31,7 +31,8 @@ No pushing, no blowing, no motors.
 ### 6. 👀 Hands off
 
 During the race you **do not touch** your boat.
-If it gets stuck or tips over, it can be rescued **once**.
+If it gets stuck or tips over, **you** may rescue it **once**,
+with the raven stick, **from the bank**. Never step into the creek!
 
 ### 7. 🔒 Finished is finished
 
@@ -46,7 +47,8 @@ Every boat and every piece comes **out of the water** again.
 
 **Sinking is okay!** Every boat that sinks teaches us something. 💙
 
-**Free for all kids and teens.** And everyone gets an ice cream voucher! 🍦
+**Free for all kids and teens.** And every child gets one ice cream voucher! 🍦
+Build as many boats as you like, but there's only one ice cream per child. 😉
 
 **Many prizes:** 🏁 the fastest · 🐢 the slowest · 🏋️ the heaviest · 🗼 the tallest · ❤️ the audience favourite · and more!
 Choose your goal, then build your boat.

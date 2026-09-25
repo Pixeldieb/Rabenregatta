@@ -2,7 +2,9 @@
 
 *Main method: the **tear-off stub of the cloakroom ticket** that is the boat's start number. See [Registration and race office](../wiki/17-Race-Office.md#cloakroom-tickets-start-number-and-ice-cream-in-one).*
 
-*This template is for **extra vouchers**, for children without their own boat (e.g. siblings in a family team). Print on card, 8 per A4 page, numbered from 501 upwards so they don't overlap with the ticket numbers. Stamp each one on the back. See [Money and fairness](../wiki/15-Money-and-Fairness.md#ice-cream-vouchers).*
+*Rule: **one ice cream per child**, no matter how many boats it registers. For a child's further boats, the race office removes the stub before handing out the ticket.*
+
+*This template is for **extra vouchers**, for children without their own boat (e.g. siblings who built a boat together). Print on card, 8 per A4 page, numbered from 501 upwards so they don't overlap with the ticket numbers. Stamp each one on the back. See [Money and fairness](../wiki/15-Money-and-Fairness.md#ice-cream-vouchers).*
 
 ---
 

@@ -8,10 +8,14 @@ This page explains how the race works: classes, heats, the rescue rule and the p
 
 | Class | Who | Fee |
 |---|---|---|
-| **Kids and teens** | Everyone up to 17, alone, in teams or with their family | Free |
-| **Grown-up ravens** | Adults 18+, sponsor teams, clubs | Small start fee |
+| **Kids and teens** | 0–18, alone, in teams or with their family | Free, one ice cream voucher per child |
+| **Grown-up ravens** | Adults over 18, sponsor teams, clubs | Small start fee, no ice cream |
 
-Optional, for larger events: split the kids into age groups, for example 6–9, 10–13 and 14–17. Add a column for the group in the boat register.
+The two classes are registered in **separate lists** and race in separate blocks. See [Registration and race office](17-Race-Office.md#two-lists-kids-and-grown-ups).
+
+**As many boats as you like:** everyone may register several boats.
+
+Optional, for larger events: split the kids into age groups, for example 6–9, 10–13 and 14–18. Add a column for the group in the boat register.
 
 ## The course
 
@@ -32,12 +36,16 @@ Each sponsor sets up one themed chicane along the course. See [Sponsors and chic
 
 Boats get stuck on stones, in chicanes, or they tip over. That's part of the race.
 
-- **Once per race, a boat may be freed or set upright.** A course helper (a "raven") does this with a raven stick. If your creek is safe enough, you can allow the builders to do it themselves from the bank.
+- **Once per race, a boat may be freed or set upright, only by its own builders.** Nobody else may touch it: not the helpers, not the parents, not other children.
+- **From the bank only.** Nobody steps into the creek to do it. Builders use a raven stick (a long pole with a soft end) from the bank.
+- If the boat is out of reach from the bank, it can't be rescued. It stays in the race until it frees itself or the heat is over.
+- The course helpers watch, hand out the raven sticks and tell the race office when a boat has used its rescue.
 - If the boat gets stuck or capsizes **a second time** and does not finish, it is **disqualified** for this race.
 - A boat that sinks is disqualified. Cheering is still allowed!
 - Otherwise, **no one touches the boats** during the race: no pushing, no blowing.
 - Chicanes are part of the course. Getting stuck in a chicane is not a reason for a restart.
 - **Time limit** (optional): a boat that has not finished after _[10]_ minutes is disqualified.
+- **After the heat**, course helpers in boots recover stuck or sunk boats and parts. Leave no trace. Builders stay on the bank.
 
 ## No changes after registration
 

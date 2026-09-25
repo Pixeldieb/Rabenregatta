@@ -41,7 +41,7 @@ Rough values for about 30–50 boats. Prices are examples and vary by region and
 | Source | Amount (€) |
 |---|---|
 | Sponsor prizes (usually paid directly by the sponsor, list for overview) | |
-| Grown-up start fees (18+ only; children are always free) | |
+| Grown-up start fees (over 18 only; children are always free) | |
 | Duck race donations (optional) | |
 | Municipality / funding programme | |
 | Local sponsors | |

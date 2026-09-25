@@ -9,6 +9,7 @@ Rabenregatta is a family event near water, with tools. A little planning keeps e
 - **Children under 10 are always accompanied** by an adult near the water.
 - Mark a **spectator zone**. Keep people away from steep or slippery banks.
 - **Only designated helpers** (the "ravens") go into the creek. They wear rubber boots or waders and a high-visibility vest.
+- **Builders never step into the creek**, not even to rescue their own boat. They use the raven stick from the bank.
 - Keep a **throw line** or rescue pole at the start and at the finish.
 - Check the water level on the morning of the event. **If the water is too high or too fast, the race is postponed.** Set this rule in advance.
 

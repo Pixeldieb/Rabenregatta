@@ -16,6 +16,14 @@ So that the boat is in the spotlight, not the child. If a boat sinks, *the boat*
 
 No. Once registered, a boat stays as it is. That's fair to everyone and keeps weight and height valid for the prizes. Test your boat in the test harbour first. Or build a second boat and register that one too!
 
+### How many boats may I enter?
+
+As many as you like! But every child gets only **one** ice cream voucher.
+
+### Who may rescue a stuck boat?
+
+Only its own builders, once per race, with the raven stick, from the bank. Nobody steps into the creek.
+
 ### Is there a height limit?
 
 No. Experience shows that boats taller than about 40 cm capsize anyway. We still measure the height for the prizes and the boat gallery.

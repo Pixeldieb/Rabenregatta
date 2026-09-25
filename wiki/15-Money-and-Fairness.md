@@ -18,7 +18,7 @@ Every participating child gets a voucher for one ice cream. You can decide to gi
 
 1. **Before the event:** Agree with a local ice cream vendor (ice cream parlour, café, ice cream van) on a **fixed price per voucher**.
 2. **Use cloakroom tickets:** The numbered double ticket is the boat's start number, and its **tear-off stub is the ice cream voucher**. See [Registration and race office](17-Race-Office.md#cloakroom-tickets-start-number-and-ice-cream-in-one). For children without their own boat, keep a separate roll of numbered vouchers. See [ice cream voucher template](../templates/ice-cream-voucher.md).
-3. **At registration:** the builder gets the stub. For boats built by several children, give extra vouchers from the separate roll.
+3. **At registration:** the child gets the stub of its **first** boat. **One voucher per child**, no matter how many boats it registers: for further boats, the race office tears off the stub beforehand. For boats built by several children, the other children get one voucher each from the separate roll.
 4. **During the event:** children redeem them with the vendor.
 5. **Afterwards:** the vendor hands in the collected stubs and vouchers. You count them together, and the organiser pays according to the number of vouchers (against an invoice).
 
@@ -26,7 +26,7 @@ This way you only pay for ice cream that was actually eaten, and the vendor has 
 
 ## Grown-up start fee
 
-Adults race in their own class, the **Grown-up ravens (18+)**, and pay a **small start fee**, for example €3–5. It covers part of the ice cream vouchers and prizes.
+Adults race in their own class, the **Grown-up ravens (over 18)**, and pay a **small start fee**, for example €3–5. It covers part of the ice cream vouchers and prizes. They are registered in a **separate list** with their own tickets (without ice cream stub). See [Registration and race office](17-Race-Office.md#two-lists-kids-and-grown-ups).
 
 - Family teams with at least one child are **free**. The boat counts as the child's boat.
 - Adult helpers, jury members and people accompanying children pay nothing.

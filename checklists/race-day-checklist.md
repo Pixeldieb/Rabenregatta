@@ -25,7 +25,7 @@
 
 ## Morning: stations
 
-- [ ] Race office: table, black box, lists, pens, cash box
+- [ ] Race office: kids' registration and grown-ups' registration (separate list, cash box), black box, pens
 - [ ] Photo station: background, A4 grid mat, camera, number cards
 - [ ] Scale and ruler at the gauge check
 - [ ] **Gallery** with numbered voting containers
@@ -42,7 +42,7 @@
 - [ ] Roles and zones assigned, vests handed out
 - [ ] Emergency plan: who calls, where is the access point
 - [ ] Thunderstorm rule explained
-- [ ] "Hands off" rule and raven stick use explained
+- [ ] "Hands off" rule explained: only builders rescue their own boat, once, from the bank. Nobody steps into the creek
 - [ ] Photo stickers explained
 
 ## During the race

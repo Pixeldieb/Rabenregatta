@@ -18,12 +18,14 @@ The Rabenregatta is about building something yourself and finding out what you c
 
 | Class | Who | Fee |
 |---|---|---|
-| Kids and teens | Up to 17, alone, in teams or with their family | free |
-| Grown-up ravens | 18 and over | _[€3]_ start fee |
+| Kids and teens | 0–18, alone, in teams or with their family | free |
+| Grown-up ravens | over 18 | _[€3]_ start fee |
 
 2.3 **Taking part is free for all children and teenagers aged 0–18.** This includes building stations, workshops and materials.
 
-2.4 Every participating child receives an ice cream voucher.
+2.4 Every participating child receives **one** ice cream voucher, no matter how many boats it registers. Grown-ups do not receive ice cream vouchers.
+
+2.5 Everyone may register **as many boats as they like**.
 
 ## 3. The boat
 
@@ -48,7 +50,7 @@ The Rabenregatta is about building something yourself and finding out what you c
 
 ## 4. Registration
 
-4.1 **Only registered boats race.** Boats are registered at the race office.
+4.1 **Only registered boats race.** Boats are registered at the race office, in **separate lists** for kids and teens (0–18) and for grown-ups (over 18).
 
 4.2 At registration, each boat is checked on the A4 gauge, checked for materials, **weighed, measured and photographed**. These values count for the prizes.
 
@@ -60,7 +62,7 @@ The Rabenregatta is about building something yourself and finding out what you c
 
 ## 5. The race
 
-5.1 Boats race in **heats of three**, in the **order of registration**. The race office calls each heat.
+5.1 Boats race in **heats of three**, in the **order of registration**. The race office calls each heat. Grown-ups race in their own block _[after the kids' races]_.
 
 5.2 **Course.** The course includes chicanes set up by sponsors. Chicanes are part of the course.
 
@@ -70,11 +72,11 @@ The Rabenregatta is about building something yourself and finding out what you c
 
 5.5 **During the race, no one touches the boats**, blows at them or influences them in any way, except for the rescue in 5.6.
 
-5.6 **Rescue.** Once per race, a boat may be freed or set upright _[by a course helper / by its builder from the bank]_.
+5.6 **Rescue.** Once per race, a boat may be freed or set upright, **only by its own builders and only from the bank**. Nobody may step into the creek to do so. Builders use the raven stick provided.
 
 5.7 **Disqualification.** A boat that sinks, or that gets stuck or capsizes again after its rescue and does not finish, is disqualified for this race. _[Optional: a boat that has not finished after 10 minutes is disqualified.]_
 
-5.8 If a boat loses parts, the builder helps to recover them after the race.
+5.8 Stuck or sunk boats and lost parts are recovered after the heat by the course helpers. Builders stay on the bank.
 
 5.9 _[Optional: The three fastest boats race again in a final.]_
 

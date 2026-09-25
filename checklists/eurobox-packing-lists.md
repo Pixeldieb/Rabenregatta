@@ -75,7 +75,9 @@ Columns: **Target** = quantity that belongs in the box · **Out** = counted befo
 | Sandpaper (grits 80, 120, 180) | 10 each | | |
 | Wood glue D3 (small bottles) | 3 | | |
 | Water-based paints, brushes | 1 set | | |
-| Cloakroom tickets (double, numbered, roll): start number + ice cream stub | 1 roll | | |
+| Cloakroom tickets, colour A (kids, 1–499): start number + ice cream stub | 1 roll | | |
+| Cloakroom tickets, colour B (grown-ups, from 500), stubs removed | 1 roll | | |
+| Envelope for removed stubs, ice cream stamp + ink pad (optional) | 1 each | | |
 | Masking tape (for marking only, not for boats) | 2 | | |
 
 ## 🔴 Red: Safety (400 × 300 × 120)
@@ -94,7 +96,7 @@ Columns: **Target** = quantity that belongs in the box · **Out** = counted befo
 
 | Item | Target | Out | Back |
 |---|---|---|---|
-| Boat register (clusters of three), score sheets | 1 set | | |
+| Boat register (clusters of three): kids' list and grown-ups' list, score sheets | 1 set each | | |
 | Builder pledges, photo consent forms (blank) | 50 each | | |
 | Certificates (blank) | 60 | | |
 | Clipboards, pens | 6 | | |
