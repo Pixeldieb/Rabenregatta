@@ -6,7 +6,15 @@
 
 ### Does it cost anything to take part?
 
-We recommend keeping it **free**. Materials are collected or donated. If you need money, ask sponsors rather than participants.
+**For children and teens aged 0–18: no, never.** That's a core rule of Rabenregatta. Every child even gets an ice cream voucher. Adults racing in the grown-up class pay a small start fee. Materials are donated, collected or found in nature. See [Money and fairness](15-Money-and-Fairness.md).
+
+### How do sponsors take part?
+
+Each sponsor pays for a prize, sets up a themed chicane on the course and chooses the win condition of their prize. See [Sponsors and chicanes](14-Sponsors-and-Chicanes.md).
+
+### Why do spectators vote with talers?
+
+Because it's fair and reusable. One taler per person, gold for participants, silver for spectators; both count the same. See [Race format](08-Race-Format.md#the-audience-vote-gold-and-silver-talers).
 
 ### We don't have a creek. What now?
 
@@ -46,8 +54,8 @@ Most of it can be borrowed or donated. If you buy everything new, expect a few h
 
 ### Can we run it as a school project?
 
-Absolutely. Rabenregatta covers physics (buoyancy, stability, wind), craft and technology, art and sustainability. Build during lessons, race at the school festival.
+Absolutely, and it stays free for pupils. Rabenregatta covers physics (buoyancy, stability, wind), craft and technology, art and sustainability. Build during lessons, race at the school festival.
 
 ### What happens to the boats afterwards?
 
-The builders take them home. They are proud of them! Boats that are left behind: reusable parts go back into the material boxes, the rest is sorted for recycling.
+The builders take them home. They are proud of them! But first every boat gets photographed at check-in. See [Documenting the boats](16-Documenting-the-Boats.md). Boats that are left behind: reusable parts go back into the material boxes, the rest is sorted for recycling.

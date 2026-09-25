@@ -13,10 +13,13 @@
 - [Eurobox system](06-Eurobox-System.md)
 - [Tournament equipment](07-Tournament-Equipment.md)
 - [Build workshops](10-Build-Workshops.md)
+- [Sponsors and chicanes](14-Sponsors-and-Chicanes.md)
+- [Money and fairness](15-Money-and-Fairness.md)
 
 **Race**
 - [Race format](08-Race-Format.md)
 - [Race day runbook](09-Race-Day-Runbook.md)
+- [Documenting the boats](16-Documenting-the-Boats.md)
 
 **More**
 - [Marketing and community](11-Marketing-and-Community.md)

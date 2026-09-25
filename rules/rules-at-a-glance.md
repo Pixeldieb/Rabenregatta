@@ -41,4 +41,9 @@ Every boat and every piece comes **out of the water** again.
 
 **Sinking is okay!** Every boat that sinks teaches us something. 💙
 
-**Prizes for:** 🏁 the fastest · 💡 the cleverest · ♻️ the best reuse · ⚓ the toughest · ❤️ the audience favourite
+**Free for all kids and teens.** And everyone gets an ice cream voucher! 🍦
+
+**Many prizes:** 🏁 the fastest · 🐢 the slowest · 🏋️ the heaviest · 🗼 the tallest · ❤️ the audience favourite · and more!
+Choose your goal, then build your boat.
+
+**Audience vote:** You get one 🟡 gold taler. Put it in the jar of your favourite boat. Not your own! 😉

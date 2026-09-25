@@ -6,7 +6,7 @@ In a village, word of mouth is your strongest channel. Marketing for Rabenregatt
 
 > **Build your own boat. Race it on our creek. Discover what you can do.**
 
-Everything else is detail. Always mention: **date, place, A4, reused materials, free**.
+Everything else is detail. Always mention: **date, place, A4, reused materials, free for kids and teens, ice cream**.
 
 ## Channels that work in villages
 
@@ -28,6 +28,10 @@ Start collecting **8 weeks** before the event. It gets people involved early, lo
 - Post photos of the growing pile.
 - Ask local businesses for offcuts and name them as supporters.
 
+## Sponsors
+
+Local businesses become part of the race: each sponsor gives a prize, chooses its win condition and builds a themed chicane. See [Sponsors and chicanes](14-Sponsors-and-Chicanes.md) and the [letter to businesses](../marketing/letter-to-businesses.md).
+
 ## Partners and supporters
 
 | Partner | What they can give |
@@ -38,7 +42,8 @@ Start collecting **8 weeks** before the event. It gets people involved early, lo
 | Local history club | Knowledge of the creek, stories, cake |
 | Bakery, café | Food, corks, cartons |
 | Municipality | Permission, insurance, publicity |
-| Local bank, businesses | Small sponsorship for prizes and boxes |
+| Local businesses | A prize, a chicane, a workshop with their team |
+| Ice cream vendor | Ice cream for every child, settled via vouchers |
 
 Name supporters on posters and at the award ceremony. Don't make it a sponsor show; keep the focus on the builders.
 

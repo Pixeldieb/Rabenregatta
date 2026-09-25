@@ -18,7 +18,9 @@ This repository is an **open kit**. Use it to run a Rabenregatta in your own vil
 | **Who builds** | You. No kits, no downloaded plans, no last year's boat |
 | **Materials** | Reused or natural. No Styrofoam, no glitter, no batteries |
 | **Power** | Only the creek and the wind |
-| **Race** | Heats on the creek, then a final |
+| **Race** | Heats on the creek with sponsor chicanes, then a final |
+| **Prizes** | Many kinds: fastest, slowest, heaviest, tallest, audience favourite and more |
+| **Cost** | Free for everyone aged 0–18, with an ice cream for every child |
 | **Rule no. 1** | Every boat and every piece comes back out of the water |
 
 ---
@@ -33,6 +35,9 @@ This repository is an **open kit**. Use it to run a Rabenregatta in your own vil
 | Learn how to build a boat | [Tutorials](tutorials/README.md) |
 | Pack the tool and material boxes | [Eurobox system](wiki/06-Eurobox-System.md) |
 | Build the race equipment | [Tournament equipment](wiki/07-Tournament-Equipment.md) |
+| Involve local businesses | [Sponsors and chicanes](wiki/14-Sponsors-and-Chicanes.md) |
+| Keep it free and fair | [Money and fairness](wiki/15-Money-and-Fairness.md) |
+| Document the boats | [Documenting the boats](wiki/16-Documenting-the-Boats.md) |
 | Promote the event | [Marketing templates](marketing/) |
 | Print forms and checklists | [Templates](templates/) · [Checklists](checklists/) |
 | Find the science | [Sources](wiki/Sources.md) |
@@ -70,6 +75,7 @@ This kit is a starting point, not a recipe you must follow. Your creek, your vil
 1. **Self-built.** The experience only works if the boat is really yours.
 2. **Leave no trace.** Nothing stays in the creek.
 3. **Everyone gets a moment of success.** There are prizes for more than just speed.
+4. **Free for children.** Taking part never costs anything for anyone aged 0–18.
 
 ## Share back
 

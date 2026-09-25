@@ -3,6 +3,8 @@
 **Race day:** _[date, time]_ · **Place:** _[creek, meeting point]_
 **Registration by:** _[date]_ · **Hand in at:** _[place / e-mail]_
 
+**Free for all children and teens aged 0–18.** Every child gets an ice cream voucher. Grown-up ravens (18+): start fee _[€3]_, paid at check-in.
+
 ---
 
 ## The boat
@@ -10,7 +12,7 @@
 | | |
 |---|---|
 | **Boat name** | |
-| **Age group** | ☐ Raven chicks (6–9) ☐ Young ravens (10–13) ☐ Ravens (14+) ☐ Raven family |
+| **Age group** | ☐ Raven chicks (6–9) ☐ Young ravens (10–13) ☐ Teen ravens (14–17) ☐ Raven family ☐ Grown-up ravens (18+) |
 
 ## Builder(s)
 

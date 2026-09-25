@@ -13,6 +13,17 @@
 
 *Enter start numbers. Mix the boats randomly (e.g. draw numbers from a hat).*
 
+### Round 1 finish times (for Underdog, Precision and similar prizes)
+
+| Heat | Lane 1 | Lane 2 | Lane 3 | Lane 4 | Lane 5 | Lane 6 |
+|---|---|---|---|---|---|---|
+| 1 | : | : | : | : | : | : |
+| 2 | : | : | : | : | : | : |
+| 3 | : | : | : | : | : | : |
+| 4 | : | : | : | : | : | : |
+
+*mm:ss or DNF. Copy the times into the [boat register](boat-register.md).*
+
 ## Lucky loser heat
 
 | Heat | Lane 1 | Lane 2 | Lane 3 | Lane 4 | Lane 5 | Lane 6 | Winner |

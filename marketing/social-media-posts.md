@@ -7,7 +7,7 @@ Short texts for village WhatsApp groups, Facebook, Instagram. Replace _[brackets
 ### 8 weeks before: Save the date
 
 🐦‍⬛ **Save the date: Rabenregatta _[date]_!**
-Build a boat that fits on an A4 sheet, made from old things, and race it on the _[creek]_. For everyone aged 6+. Free.
+Build a boat that fits on an A4 sheet, made from old things, and race it on the _[creek]_. Free for all kids and teens, with an ice cream for every child! 🍦
 Start collecting now: corks, cartons, bottles, wood offcuts 🍾📦🪵
 More info soon! #Rabenregatta #[Village]
 
@@ -30,6 +30,14 @@ Building at home? Great. No tools? No problem. Come to our free workshops:
 🗓 _[date, time, place]_
 🗓 _[date, time, place]_
 Register: _[link / contact]_
+
+---
+
+### 5 weeks before: Sponsor spotlight (one post per sponsor)
+
+🐕 **Meet the chicanes!** The _[dog school]_ is hanging dog leashes into the _[creek]_. Can your boat make it through the leash curtain? 🌊
+And their prize: the **Underdog Prize** for the slowest boat that still reaches the finish! 🐢
+All prizes: _[link]_
 
 ---
 

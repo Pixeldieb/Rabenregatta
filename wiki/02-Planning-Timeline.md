@@ -9,8 +9,9 @@ A Rabenregatta needs about **12 weeks** of relaxed planning. A small team of 3�
 | **Lead** | Keeps the overview, talks to the municipality, makes decisions |
 | **Creek & safety** | Venue, permissions, safety concept, equipment |
 | **Workshops** | Build sessions, Euroboxes, tools, material collection |
-| **Outreach** | Posters, press, schools, clubs, social media |
-| **Race office** | Registrations, start numbers, heat plan, results, prizes |
+| **Outreach & sponsors** | Posters, press, schools, clubs, social media, sponsors and their chicanes |
+| **Race office** | Registrations, start numbers, boat register, heat plan, times, audience vote, results, prizes |
+| **Photos** | Photo station at check-in, pictures during the race, archive. See [Documenting the boats](16-Documenting-the-Boats.md) |
 
 One person can hold several roles.
 
@@ -23,23 +24,30 @@ One person can hold several roles.
 - [ ] Pick a date and a rain date. Avoid school holidays and other village events.
 - [ ] Draft a budget. See [budget template](../templates/budget.md).
 - [ ] Find partners: school, kindergarten, fire brigade, sports club, local history club, carpenter.
+- [ ] Make a list of local businesses to ask as **sponsors**. See [Sponsors and chicanes](14-Sponsors-and-Chicanes.md).
 
 ### 10 weeks before
 
 - [ ] Talk to the landowner, the municipality and, if needed, the water and nature authorities. See [Safety and nature](04-Safety-and-Nature.md).
 - [ ] Clarify insurance (municipality, club insurance or event insurance).
 - [ ] Adapt the [rules](../rules/official-rules.md) to your creek.
+- [ ] **Visit sponsors in person.** Agree on prize, chicane and win condition. See [sponsor sheet](../templates/sponsor-sheet.md) and [letter to businesses](../marketing/letter-to-businesses.md).
+- [ ] Agree with an **ice cream vendor** on a price per voucher. See [Money and fairness](15-Money-and-Fairness.md).
+- [ ] Optional duck race: ask the municipality whether the lottery needs a permit.
 
 ### 8 weeks before
 
 - [ ] Start the **material collection**: set up collection boxes in school, town hall, shop. See [marketing](../marketing/).
+- [ ] Plan a **litter collection walk** as a material treasure hunt. See [Materials](05-Materials-Traffic-Light.md#2-litter-collection).
 - [ ] Ask local businesses for offcuts: carpenter, joinery, wine bar (corks), café (clean cartons).
 - [ ] Publish the first announcement.
+- [ ] Hold **sponsor workshops** for concrete chicanes now. Concrete needs at least 4 weeks to cure.
 - [ ] Buy or borrow Euroboxes and tools. See [Eurobox system](06-Eurobox-System.md).
 
 ### 6 weeks before
 
 - [ ] Open registrations. See [registration form](../templates/registration-form.md).
+- [ ] **Publish the prize catalogue** with all win conditions, so builders can choose their goal.
 - [ ] Hold the first **build workshops**. See [Build workshops](10-Build-Workshops.md).
 - [ ] Build the tournament equipment. See [Tournament equipment](07-Tournament-Equipment.md).
 
@@ -48,11 +56,12 @@ One person can hold several roles.
 - [ ] Send the press release. See [press release template](../marketing/press-release.md).
 - [ ] Recruit race-day helpers. Assign roles.
 - [ ] Organise food, drinks, toilets, first aid, a PA system or megaphone.
-- [ ] Order or make prizes and certificates.
+- [ ] Collect sponsor prizes, pack the prize bags. Make certificates.
+- [ ] Make talers and voting containers, print the ice cream vouchers.
 
 ### 2 weeks before
 
-- [ ] **Test run** at the creek with the full equipment and 3–4 test boats.
+- [ ] **Test run** at the creek with the full equipment, all chicanes and 3–4 test boats. Every chicane must be passable.
 - [ ] Walk the course. Check water level, the catch net and the banks.
 - [ ] Final workshop sessions.
 

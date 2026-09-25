@@ -13,6 +13,10 @@ Did it work? A simple evaluation helps you improve your next event. It also help
 | Materials collected (kg) | Weigh the collection boxes |
 | Boats recovered / boats started | Catch net team. Goal: 100% |
 | Helpers and supporting organisations | Team list |
+| Sponsors, chicanes, sponsor workshop participants | Sponsor sheets |
+| Ice cream vouchers handed out / redeemed | Voucher log |
+| Talers cast (gold / silver) | Taler count; shows how many spectators took part |
+| Different prize winners | Results. Goal: many different boats win something |
 
 ## What to ask (medium)
 

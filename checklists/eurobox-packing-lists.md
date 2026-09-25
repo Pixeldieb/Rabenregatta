@@ -98,8 +98,17 @@ Columns: **Target** = quantity that belongs in the box · **Out** = counted befo
 | Builder pledges, photo consent forms (blank) | 50 each | | |
 | Certificates (blank) | 60 | | |
 | Clipboards, pens | 6 | | |
-| Stopwatches (or phones) | 2 | | |
+| Stopwatches (or phones) | 3 | | |
+| Boat register, prize catalogue, sponsor sheets | 1 set | | |
+| Kitchen scale (1 g, up to 5 kg) + ruler 50 cm | 1 each | | |
+| A4 grid mat for the photo station | 1 | | |
+| Gold talers (one per participant + 20%) | | | |
+| Silver talers (one per expected spectator + 20%) | | | |
+| Voting containers with number cards | 50 | | |
+| Ice cream vouchers, numbered and stamped | | | |
+| Rubber ducks, numbered (optional) | | | |
+| Prize bags | | | |
 | Megaphone + batteries (charged) | 1 | | |
 | "No photo" stickers / wristbands | 20 | | |
 | Kit logbook | 1 | | |
-| Cash box (if selling food) | 1 | | |
+| Cash box + receipt book (grown-up start fees, duck race) | 1 | | |

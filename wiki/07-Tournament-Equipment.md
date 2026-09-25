@@ -13,6 +13,11 @@ The race equipment is simple and mostly made of wood. You can build it in an aft
 | **Raven sticks** | Long poles for helpers to free stuck boats |
 | **Test harbour** | A tub of water for test floats before the start |
 | **Stakes and straps** | Hold the boards in place |
+| **Chicanes** | Themed obstacles, provided by sponsors. See [Sponsors and chicanes](14-Sponsors-and-Chicanes.md) |
+| **Kitchen scale and ruler** | Weigh and measure every boat at check-in |
+| **Photo station** | Document every boat. See [Documenting the boats](16-Documenting-the-Boats.md) |
+| **Stopwatches** | Finish times of every boat in round 1 |
+| **Talers and voting containers** | Audience vote |
 
 ## A4 gauge
 
@@ -74,6 +79,22 @@ Poles about 1.5–2 m long, with a soft end (for example old cloth wrapped tight
 ## Test harbour
 
 A big tub, a mortar trough or a paddling pool, half full of water. Builders test their boats before the race: does it float, does it stay upright? Place it near the start.
+
+## Scale, ruler and photo station
+
+At check-in, every boat is **weighed** (kitchen scale, 1 g steps, up to 5 kg) and **measured** (height from the lowest to the highest point). The values go into the [boat register](../templates/boat-register.md) and count for prizes like Heavyweight or Skyscraper. Right next to it is the photo station. See [Documenting the boats](16-Documenting-the-Boats.md).
+
+## Talers and voting containers
+
+For the audience vote, see [Race format](08-Race-Format.md#the-audience-vote-gold-and-silver-talers).
+
+- **Talers:** wooden discs, about 3–4 cm across. Paint one batch gold and one batch silver with water-based paint. You need one per participant and one per expected spectator, plus 20% extra.
+- **Voting containers:** one per boat. Jars, tins or small boxes, each with a large start number. Reuse them every year and just swap the number cards.
+- Store talers and containers in the black Eurobox.
+
+## Chicanes
+
+Chicanes are provided by sponsors and must meet the [chicane rules](14-Sponsors-and-Chicanes.md#rules-for-every-chicane). The creek team plans where each one goes, checks it at the test run, and removes it with the sponsor on the same day. Leave enough distance between chicanes (at least 5 m) so the spectators can follow each one.
 
 ## About the boards
 

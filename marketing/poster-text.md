@@ -17,14 +17,17 @@ Three versions. Choose one, add a raven drawing and a photo of a boat, and print
 ♻️ From **old and natural things**
 🌊 The **creek** does the rest
 
-**For everyone aged 6 and over. Families welcome. Free.**
+**Free for all kids and teens up to 18, with an ice cream for every child!** 🍦
+Families welcome. Grown-ups race in their own class.
 
 **Build workshops:** _[dates, place]_. Tools and materials provided!
 **Registration:** _[where / how]_ by _[date]_
 
 *Collect now: corks, cartons, bottles, wood offcuts. No Styrofoam, please!*
 
-_[Logos of supporters]_
+**Prizes for the fastest, the slowest, the heaviest, the tallest and many more.** With chicanes by _[sponsors]_.
+
+_[Sponsor names in one line, same size for all]_
 
 ---
 
@@ -36,7 +39,7 @@ _[Logos of supporters]_
 
 **Rabenregatta** · _[date]_ · _[place]_
 A4 size · self-built · reused materials · creek race
-Free · ages 6+ · families welcome
+Free for kids & teens · ice cream for every child · families welcome
 Info & registration: _[contact / QR code]_
 
 ---
@@ -48,6 +51,7 @@ Info & registration: _[contact / QR code]_
 **We collect:**
 🟢 Wine corks · Wood offcuts · Sticks · Cotton string · Fabric scraps
 🟡 Clean bottles with caps · Rinsed drink cartons
+🧤 Or join our litter collection walk on _[date]_: today's rubbish, tomorrow's racing boat!
 
 **Please no:**
 🔴 Styrofoam · Glitter · Balloons · Batteries

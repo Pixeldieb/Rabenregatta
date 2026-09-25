@@ -5,7 +5,9 @@
 - [ ] Weather forecast checked. Decision go / rain plan announced
 - [ ] All boxes packed and counted (see [packing lists](eurobox-packing-lists.md))
 - [ ] Tournament equipment loaded: start board, finish board, catch net, stakes, raven sticks, A4 gauges, test harbour
-- [ ] Printed: heat plans, registration list, certificates, emergency sheet, site map
+- [ ] Printed: heat plans, boat register, registration list, certificates, emergency sheet, site map, prize catalogue
+- [ ] Talers, voting containers, ice cream vouchers, prize bags packed
+- [ ] Sponsors reminded: set-up time, place of their chicane, award ceremony
 - [ ] Megaphone charged
 - [ ] Helpers reminded of time and place
 
@@ -16,12 +18,18 @@
 - [ ] Start board placed, secured with stakes, gate tested
 - [ ] Finish board placed, finish line visible
 - [ ] **Catch net installed** and tested with a test boat
+- [ ] **Chicanes** set up by sponsors, checked and passable
+- [ ] Ice cream vendor on site / informed
 - [ ] Spectator zone marked
 - [ ] Test harbour filled
 
 ## Morning: stations
 
-- [ ] Race office: table, black box, lists, pens
+- [ ] Race office: table, black box, lists, pens, cash box
+- [ ] Photo station: background, A4 grid mat, camera, number cards
+- [ ] Scale and ruler at the gauge check
+- [ ] Boat exhibition with numbered voting containers
+- [ ] Info stand with silver talers
 - [ ] Gauge and material check: A4 gauges, traffic light poster
 - [ ] Repair station: blue, green, yellow, grey boxes
 - [ ] First aid: red box, first aider present, emergency sheet visible
@@ -41,14 +49,17 @@
 
 - [ ] Results entered in heat plans after each heat
 - [ ] Boats returned to builders after each heat
+- [ ] Round 1 finish times recorded for **every** boat
 - [ ] Jury scores collected before the finals
-- [ ] Audience vote counted
+- [ ] Talers counted (gold and silver count the same)
+- [ ] Sponsor prizes evaluated (Underdog, Heavyweight, …)
 - [ ] Iron Raven list updated
 
 ## Award ceremony
 
 - [ ] Certificates filled in for **every** participant
 - [ ] Prizes ready
+- [ ] Sponsors hand over their own prizes
 - [ ] Supporters thanked
 - [ ] Group photo (only with consent, stickers respected)
 - [ ] Announce the clean-up walk

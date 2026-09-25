@@ -14,7 +14,7 @@ Self-efficacy is not a fixed trait. It can grow. Bandura named **four sources** 
 |---|---|---|
 | **1. Mastery experience** (strongest source) | "I did it myself, and it worked." | Every participant designs, builds and floats their **own** boat. No kits, no parents taking over. |
 | **2. Vicarious experience** | "Someone like me did it, so I can too." | Children see other children and neighbours build. Mixed age groups and family teams. |
-| **3. Verbal persuasion** | Honest encouragement from others | Helpers ask questions instead of giving answers. Prizes for creativity, reuse and seaworthiness, not just speed. |
+| **3. Verbal persuasion** | Honest encouragement from others | Helpers ask questions instead of giving answers. Many different prizes (slowest, heaviest, tallest, audience favourite), not just speed. The whole village votes with talers. |
 | **4. Physiological and emotional state** | Feeling calm and safe, not anxious | Low stakes, a playful mood, a village party atmosphere. Sinking is allowed and expected. |
 
 ## More ideas that support the design
@@ -65,3 +65,4 @@ You can help change that: [Evaluation](12-Evaluation.md) shows a simple way to m
 4. **Failure is welcome.** Test, sink, improve.
 5. **The village is the classroom.** Local creek, local materials, local people.
 6. **Leave no trace.** Nature is a partner, not a backdrop.
+7. **Community, not profit.** Free for everyone aged 0–18. Local businesses join in with ideas and chicanes, not just money. See [Money and fairness](15-Money-and-Fairness.md).

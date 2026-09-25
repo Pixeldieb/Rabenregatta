@@ -57,10 +57,26 @@ Ask at the **material check** (at the workshop or at registration). The jury dec
 
 ## Where to find materials
 
+**Materials never cost money.** They come from three sources:
+
+### 1. Donations
+
 - **Home:** corks, cartons, bottles, old T-shirts, wooden spoons, clothes pegs
 - **Carpenter, joiner, sawmill:** wood offcuts (often free and gladly given)
 - **Restaurants, wine bars:** corks
 - **Recycling centre, repair café:** ask what they have
-- **Nature:** fallen sticks, reed, bark. Only collect what is lying on the ground and where it is allowed
 
-Set up a **material collection** before the event. Clean, sort and store the materials in the [Euroboxes](06-Eurobox-System.md).
+Set up **collection boxes** before the event. Clean, sort and store the materials in the [Euroboxes](06-Eurobox-System.md).
+
+### 2. Litter collection
+
+Turn a village clean-up into a treasure hunt: *"Today's rubbish is tomorrow's racing boat."* Bottles, caps, cartons and cans found along roads and paths can get a second life. Everything else goes to the proper bin.
+
+- **Gloves and litter pickers** for everyone. Children don't pick up anything with their bare hands.
+- **Don't touch:** broken glass, syringes, needles, batteries, unknown liquids, dead animals. Adults deal with these, or you report them to the municipality.
+- **Clean everything** before it goes into the material boxes: rinse and dry.
+- Combine it with the regional clean-up day, if your area has one.
+
+### 3. Nature
+
+Fallen sticks, reed, bark, driftwood. Only collect what is lying on the ground, and only where it is allowed. Never collect in nature reserves.

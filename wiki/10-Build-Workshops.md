@@ -70,4 +70,4 @@ Why? The self-efficacy experience depends on "I found the solution" ([Bandura, 1
 - Offer tools for left-handers and easy-grip tools.
 - Make sure girls and boys, young and old, all get to the tools. Mixed teams help.
 - Picture cards for the tool briefing help children who cannot read yet and people who do not speak the local language well.
-- Keep it free, or offer free places. Materials are donated anyway.
+- Workshops are **always free** for children and teens (0–18). Materials are donated, collected or found in nature.

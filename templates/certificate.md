@@ -14,7 +14,7 @@ has designed and built the boat
 
 &nbsp;
 
-☐ 🏁 Fastest Raven ☐ 💡 Clever Raven ☐ ♻️ Treasure Raven ☐ ⚓ Iron Raven ☐ ❤️ Audience Raven
+☐ 🏁 Fastest Raven ☐ ❤️ Audience Raven ☐ _[sponsor prize, e.g. 🐢 Underdog Prize by …]_ ☐ _______________
 
 &nbsp;
 
@@ -26,4 +26,4 @@ _[Place, date]_ ______________________ _[Signature organiser]_ _________________
 
 ---
 
-> **Organisers:** Open this file in LibreOffice or convert it with Pandoc, add a raven drawing from `assets/`, print on thick recycled paper. Tick the prize box if there is one. Every participant gets a certificate.
+> **Organisers:** Add the boat photo from the check-in if you can. Open this file in LibreOffice or convert it with Pandoc, add a raven drawing from `assets/`, print on thick recycled paper. Tick the prize box if there is one. Every participant gets a certificate.

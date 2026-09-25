@@ -20,11 +20,14 @@ You do not need to read everything. Start with the page you need.
 - [Eurobox system](06-Eurobox-System.md): colour-coded boxes for tools and materials
 - [Tournament equipment](07-Tournament-Equipment.md): start board, finish board, catch net, A4 gauge
 - [Build workshops](10-Build-Workshops.md): how to run building sessions
+- [Sponsors and chicanes](14-Sponsors-and-Chicanes.md): local businesses as part of the race
+- [Money and fairness](15-Money-and-Fairness.md): free for kids, ice cream vouchers, duck race
 
 ## 4. Race
 
 - [Race format](08-Race-Format.md): heats, final and prizes
 - [Race day runbook](09-Race-Day-Runbook.md): the day, hour by hour
+- [Documenting the boats](16-Documenting-the-Boats.md): photo station and boat register
 
 ## 5. Reach out and learn
 

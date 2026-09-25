@@ -27,7 +27,7 @@ on _[date]_, the Rabenregatta takes place on the _[creek name]_ in _[village]_. 
 
 - A free build workshop at your school, with tools and materials (Eurobox kit) and helpers. Duration: about 2.5 hours
 - Free tutorials and worksheets on the physics of floating
-- Participation in the race is free
+- Participation is free for all pupils, and every child gets an ice cream voucher
 
 **What we would like from you:**
 

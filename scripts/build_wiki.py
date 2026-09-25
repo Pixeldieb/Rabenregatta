@@ -21,6 +21,8 @@ BRANCH = os.environ.get("BRANCH", "main")
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "wiki"
 LINK = re.compile(r"(\]\()([^)\s]+)(\))")
+SRC_ATTR = re.compile(r'(src=")([^"]+)(")')
+IMAGE_SUFFIXES = {".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp"}
 
 
 def rewrite(link: str) -> str:
@@ -34,9 +36,15 @@ def rewrite(link: str) -> str:
     if target.parent == SRC and target.suffix == ".md":
         return target.stem + anchor
 
-    # Anything else: link to the file or folder in the main repository
+    # Anything else: link to the file or folder in the main repository.
+    # Images need the raw file, otherwise the Wiki shows a broken image.
     rel = target.relative_to(ROOT).as_posix()
-    kind = "tree" if target.is_dir() else "blob"
+    if target.is_dir():
+        kind = "tree"
+    elif target.suffix.lower() in IMAGE_SUFFIXES:
+        kind = "raw"
+    else:
+        kind = "blob"
     return f"{REPO_URL}/{kind}/{BRANCH}/{rel}{anchor}"
 
 
@@ -44,7 +52,8 @@ def main() -> None:
     out = Path(sys.argv[1])
     for page in sorted(SRC.glob("*.md")):
         text = page.read_text(encoding="utf-8")
-        text = LINK.sub(lambda m: m.group(1) + rewrite(m.group(2)) + m.group(3), text)
+        for pattern in (LINK, SRC_ATTR):
+            text = pattern.sub(lambda m: m.group(1) + rewrite(m.group(2)) + m.group(3), text)
         (out / page.name).write_text(text, encoding="utf-8")
         print(f"built {page.name}")
 

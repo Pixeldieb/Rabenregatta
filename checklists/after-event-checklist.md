@@ -3,6 +3,9 @@
 ## Same day
 
 - [ ] **Catch net removed**. Don't leave it overnight
+- [ ] **All chicanes removed** together with the sponsors
+- [ ] Talers and voting containers collected and counted back in
+- [ ] Rubber ducks counted back in (optional)
 - [ ] Clean-up walk along the whole course and 50 m below the catch net
 - [ ] Recovered items counted: boats started ____ / boats recovered ____
 - [ ] Start and finish boards removed, stakes pulled, holes closed
@@ -20,6 +23,9 @@
 - [ ] **Thank-you notes** to landowner, municipality, fire brigade, supporters, helpers
 - [ ] Borrowed items returned
 - [ ] Surveys evaluated (see [Evaluation](../wiki/12-Evaluation.md))
+- [ ] **Ice cream vendor:** count redeemed vouchers together, pay against invoice
+- [ ] Photos sorted and named; boat photos sent to families
+- [ ] Photos of their chicane sent to each sponsor, with a thank-you
 
 ## Within four weeks
 
