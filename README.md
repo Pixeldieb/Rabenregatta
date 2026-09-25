@@ -138,4 +138,4 @@ Did you run a Rabenregatta? Did you find a better start board or a clever materi
 
 Content is licensed under [CC BY-SA 4.0](LICENSE.md). You may copy, change and share it, including for commercial use. Please name the source and share your changes under the same license.
 
-Photos: **Luise Worms, lumography**, and the Raben-Regatta team, see [photo credits](assets/images/events/kayna/CREDITS.md). The photos are **not** covered by the CC license. Please ask before reusing them.
+Photos: **Luise Worms, lumography**, see [photo credits](assets/images/events/kayna/CREDITS.md). The photos are **not** covered by the CC license. Please ask before reusing them.
