@@ -25,7 +25,8 @@ You do not need to read everything. Start with the page you need.
 
 ## 4. Race
 
-- [Race format](08-Race-Format.md): heats, final and prizes
+- [Registration and race office](17-Race-Office.md): registration, boat register, gallery
+- [Race format](08-Race-Format.md): heats, rescue rule and prizes
 - [Race day runbook](09-Race-Day-Runbook.md): the day, hour by hour
 - [Documenting the boats](16-Documenting-the-Boats.md): photo station and boat register
 

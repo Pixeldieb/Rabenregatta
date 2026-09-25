@@ -14,21 +14,21 @@ The race equipment is simple and mostly made of wood. You can build it in an aft
 | **Test harbour** | A tub of water for test floats before the start |
 | **Stakes and straps** | Hold the boards in place |
 | **Chicanes** | Themed obstacles, provided by sponsors. See [Sponsors and chicanes](14-Sponsors-and-Chicanes.md) |
-| **Kitchen scale and ruler** | Weigh and measure every boat at check-in |
+| **Kitchen scale and ruler** | Weigh and measure every boat at registration |
 | **Photo station** | Document every boat. See [Documenting the boats](16-Documenting-the-Boats.md) |
-| **Stopwatches** | Finish times of every boat in round 1 |
+| **Stopwatches** | Race time of every boat |
 | **Talers and voting containers** | Audience vote |
 
 ## A4 gauge
 
-The gauge checks the rules: the boat must fit on an A4 footprint and be at most 42 cm high.
+The gauge checks the rule: the boat must fit on an A4 footprint. There is no height limit, but the height is measured and recorded.
 
 **Build:**
 
 - A base board with a **frame whose inner size is exactly 210 × 297 mm**. Use 4 thin battens screwed onto the board.
-- A **height bar** at 42 cm: a vertical post with a horizontal batten, or a simple mark on a post.
+- A **measuring post**: a vertical batten with a centimetre scale, to measure the height quickly.
 
-**Check:** Place the boat in the frame. If it fits without touching the outside of the frame and stays below the bar, it passes. Overhanging parts (sails, masts, bowsprits) count too. Everything must be inside the imaginary box of 21 × 29.7 × 42 cm.
+**Check:** Place the boat in the frame. If it fits without touching the outside of the frame, it passes. Overhanging parts (sails, bowsprits, outriggers) count too. Seen from above, everything must be inside the A4 rectangle.
 
 Tip: Make two or three gauges so the check at registration goes quickly.
 
@@ -82,7 +82,7 @@ A big tub, a mortar trough or a paddling pool, half full of water. Builders test
 
 ## Scale, ruler and photo station
 
-At check-in, every boat is **weighed** (kitchen scale, 1 g steps, up to 5 kg) and **measured** (height from the lowest to the highest point). The values go into the [boat register](../templates/boat-register.md) and count for prizes like Heavyweight or Skyscraper. Right next to it is the photo station. See [Documenting the boats](16-Documenting-the-Boats.md).
+At registration, every boat is **weighed** (kitchen scale, 1 g steps, up to 5 kg) and **measured** (height from the lowest to the highest point). The values go into the [boat register](../templates/boat-register.md) and count for prizes like Heavyweight or Skyscraper. Right next to it is the photo station. See [Documenting the boats](16-Documenting-the-Boats.md).
 
 ## Talers and voting containers
 

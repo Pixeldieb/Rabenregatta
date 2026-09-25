@@ -9,22 +9,22 @@ A sample schedule for a race day with about 30–50 boats. Adjust the times to y
 | **08:00** | Helpers arrive. Check water level against the agreed maximum | Creek & safety |
 | 08:15 | Set up start board, finish board, catch net, test harbour | Creek team |
 | 08:15 | Sponsors set up their chicanes; creek team checks each one | Sponsors + creek team |
-| 08:30 | Set up race office, photo station, workshop tent, first aid, hand-washing station, boat exhibition with voting containers | All |
-| 09:00 | **Helper briefing** (15 min): roles, safety, emergency plan, zones | Lead |
-| **09:30** | **Registration opens**: A4 gauge check, material check, weigh and measure, **photo station**, start numbers, gold taler and ice cream voucher for every child | Race office + photos |
-| 09:30 | Info stand hands out **silver talers** to spectators (one per person) | Info stand |
-| 09:30–10:30 | Test harbour and repair station open | Workshop team |
-| **10:30** | **Opening**: welcome, rules in 3 minutes, safety notes, introduce sponsors, chicanes and prizes | Lead + commentator |
-| 10:45 | Round 1: Raven chicks | Starter, judges, ravens |
-| 11:15 | Round 1: Young ravens | |
-| 11:45 | Round 1: Teen ravens, Raven families, Grown-up ravens | |
-| 12:15 | **Lunch break**: boat exhibition with **audience vote** (talers), jury scores, ice cream | Jury + race office |
-| 13:15 | Lucky loser heats and semi-finals. Race office evaluates round 1 times (Underdog etc.) | |
-| 14:15 | **Finals** (youngest group first). Count talers | |
-| 14:45 | Optional: **duck race** as grand finale | |
-| **15:00** | **Award ceremony**: all participants on stage, sponsors hand over their prizes, certificates for everyone | Lead + jury + sponsors |
-| 15:30 | **Joint clean-up walk** along the course | All |
-| 16:00 | Take down equipment and **all chicanes**, count talers, ducks and boxes back in | All + sponsors |
+| 08:30 | Set up building stations (Euroboxes), race office, photo station, **gallery** with voting containers, first aid, hand-washing station | All |
+| 09:30 | **Helper briefing** (15 min): roles, safety, emergency plan, zones | Lead |
+| **10:00** | **Opening**: welcome, rules in 3 minutes, safety notes, introduce sponsors, chicanes and all prizes | Lead + commentator |
+| 10:15 | **Building stations open.** Tool briefing, then build and test in the test harbour | Workshop team |
+| 10:15 | **Registration opens**: A4 check, material check, weigh, measure, photo, cloakroom ticket (start number + ice cream stub), gold taler. Boat goes into the gallery | Race office + photos |
+| 10:15 | Info stand hands out **silver talers** to spectators (one per person). Voting in the gallery is open | Info stand |
+| 12:00 | Lunch, ice cream | |
+| **13:00** | **Registration closes** | Race office |
+| **13:15** | **Races**: heats of three in registration order. Boats go back to the gallery after their race | Starter, timekeeper, ravens, race office |
+| 14:45 | Optional: final of the three fastest boats. **Voting closes**, count talers. Race office evaluates all prizes | Race office |
+| 15:00 | Optional: **duck race** as grand finale | |
+| **15:15** | **Award ceremony**: all boats announced by name, sponsors hand over their prizes, certificates for everyone | Lead + jury + sponsors |
+| 15:45 | **Joint clean-up walk** along the course | All |
+| 16:15 | Take down equipment and **all chicanes**, count talers, ducks and boxes back in | All + sponsors |
+
+**Timing:** Plan about 3–4 minutes per heat. 40 boats = 14 heats = about 1 hour of racing. If more boats come, start the races earlier and keep registration open alongside: new boats simply join the end of the list.
 
 ## Helper roles on race day
 
@@ -32,27 +32,28 @@ A sample schedule for a race day with about 30–50 boats. Adjust the times to y
 |---|---|---|
 | Lead | 1 | Overview, decisions, contact for authorities and emergency services |
 | Commentator | 1 | Megaphone, introduce boats, keep the mood up |
-| Race office | 2–3 | Registration, boat register, heat plan, times, taler count, results |
-| Photo station | 1 | Three photos per boat at check-in, then photos at the chicanes |
-| Timekeeper | 1 | Finish times of every boat in round 1 |
+| Race office | 2–3 | Registration, boat register (= race order), calling heats, times, disqualifications, taler count, prizes |
+| Photo station | 1 | Three photos per boat at registration, then photos at the chicanes |
+| Gallery | 1 | Watches the boats (no one touches them), helps with the audience vote |
+| Timekeeper | 1 | Time of every boat |
 | Info stand | 1 | Silver talers for spectators, questions, lost children |
 | Gauge check | 1–2 | A4 gauge, material check, weigh and measure |
 | Starter | 1 | Places boats, pulls the start gate |
-| Finish judges | 2 | Decide the order at the finish line |
-| Ravens (course helpers) | 2–4 | Along the course with raven sticks, in boots |
+| Finish judge | 1 | Watches the finish line, supports the timekeeper |
+| Ravens (course helpers) | 2–4 | Along the course with raven sticks, in boots. Carry out the one rescue per boat and report it |
 | Catch net | 1–2 | Recover boats, bring them back to their builders |
 | First aid | 1 | At the first aid station |
-| Workshop | 1–2 | Test harbour and repair station |
+| Building stations | 2–4 | Tool briefing, help by asking questions, test harbour |
 
-## Starting a heat
+## Running a heat
 
-1. The race office calls the heat: "Heat 3, start numbers 13 to 18, please come to the start!"
-2. The builders hand their boats to the starter, or place them themselves if it is safe.
-3. The commentator introduces each boat.
+1. The race office calls the next cluster: *"Numbers 7, 8 and 9, please bring your boats from the gallery to the start!"* and already announces the cluster after that.
+2. The builders carry their boats to the start and place them behind the gate, or hand them to the starter.
+3. The commentator introduces each boat **by its name**.
 4. The starter counts down: "3 – 2 – 1 – go!", pulls the gate and starts the stopwatch.
-5. Builders and spectators walk along the bank. **No one touches the boats.**
-6. The finish judges report the order to the race office. In round 1, the timekeeper also reports each boat's time.
-7. The catch net team returns the boats.
+5. Builders and spectators walk along the bank. **No one touches the boats**, except for the one rescue per boat.
+6. The timekeeper calls out each boat's time. The race office writes down times, rescues and disqualifications.
+7. The catch net team returns the boats. They go back into the gallery.
 
 ## When things go wrong
 
@@ -63,7 +64,8 @@ A sample schedule for a race day with about 30–50 boats. Adjust the times to y
 | A chicane stops every boat | Creek team and sponsor widen the gap right away. Re-run the heat if all boats were stuck |
 | Talers run out | Hand out the spare talers; if needed, one per family |
 | Boat escapes the catch net | Backup helper with landing net; search after the race |
-| Dispute about a finish | Watch the slow-motion video. The finish judges decide. Stay friendly |
+| Dispute about a time | Watch the slow-motion video. The race office decides. Stay friendly |
+| Builder wants to change the boat after registration | Kindly say no, it's the same rule for everyone. Offer: "Build another boat and register it!" |
 | Injury | First aid station. Call emergency services if needed. Lead informs guardians |
 | Lost child | Meeting point at the race office. Commentator announces it |
 

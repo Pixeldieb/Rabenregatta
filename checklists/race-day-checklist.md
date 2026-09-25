@@ -5,7 +5,7 @@
 - [ ] Weather forecast checked. Decision go / rain plan announced
 - [ ] All boxes packed and counted (see [packing lists](eurobox-packing-lists.md))
 - [ ] Tournament equipment loaded: start board, finish board, catch net, stakes, raven sticks, A4 gauges, test harbour
-- [ ] Printed: heat plans, boat register, registration list, certificates, emergency sheet, site map, prize catalogue
+- [ ] Printed: boat register (clusters of three), registration list, certificates, emergency sheet, site map, prize catalogue
 - [ ] Talers, voting containers, ice cream vouchers, prize bags packed
 - [ ] Sponsors reminded: set-up time, place of their chicane, award ceremony
 - [ ] Megaphone charged
@@ -28,10 +28,10 @@
 - [ ] Race office: table, black box, lists, pens, cash box
 - [ ] Photo station: background, A4 grid mat, camera, number cards
 - [ ] Scale and ruler at the gauge check
-- [ ] Boat exhibition with numbered voting containers
+- [ ] **Gallery** with numbered voting containers
 - [ ] Info stand with silver talers
 - [ ] Gauge and material check: A4 gauges, traffic light poster
-- [ ] Repair station: blue, green, yellow, grey boxes
+- [ ] Building stations: blue, green, yellow, grey boxes, test harbour
 - [ ] First aid: red box, first aider present, emergency sheet visible
 - [ ] Hand-washing station
 - [ ] Toilets accessible
@@ -47,13 +47,12 @@
 
 ## During the race
 
-- [ ] Results entered in heat plans after each heat
+- [ ] Times, rescues and disqualifications entered in the boat register after each heat
 - [ ] Boats returned to builders after each heat
-- [ ] Round 1 finish times recorded for **every** boat
 - [ ] Jury scores collected before the finals
 - [ ] Talers counted (gold and silver count the same)
 - [ ] Sponsor prizes evaluated (Underdog, Heavyweight, …)
-- [ ] Iron Raven list updated
+- [ ] Prizes ticked off in the boat register
 
 ## Award ceremony
 

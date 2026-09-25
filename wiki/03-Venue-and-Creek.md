@@ -16,7 +16,7 @@ The creek is your race track. A good spot makes everything easier.
 
 ## The surroundings
 
-- [ ] Space for a **workshop tent** or tables near the start (for last-minute repairs)
+- [ ] Space for **building stations** (tent or tables), the race office and the **gallery**, near the start
 - [ ] Space for spectators along the course, away from steep banks
 - [ ] Shade, seating, a meeting point
 - [ ] Toilets (nearby building or rented)

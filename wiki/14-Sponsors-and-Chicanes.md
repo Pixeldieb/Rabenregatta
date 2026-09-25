@@ -33,8 +33,8 @@ The sponsor chooses, the organisers check. A good win condition is:
 
 - **Measurable.** Everyone can see who won. Weigh, measure, time or count, and don't argue.
 - **Fair for all ages.** Or awarded per age group.
-- **Announced early.** Publish all prizes **before registration closes**. Builders can then design for a prize they like. A child who knows there's a prize for the heaviest boat builds very differently. More different goals mean more children with a real chance.
-- **Tied to the race.** By default, a boat must **finish round 1** to win. The heaviest boat that sinks at the start doesn't count. That makes every prize a real engineering challenge.
+- **Announced early.** All prizes and win conditions are on **every announcement, months before the event**. Builders can then design for a prize they like. A child who knows there's a prize for the heaviest boat builds very differently. More different goals mean more children with a real chance.
+- **Tied to the race.** By default, a boat must **finish its race** (not disqualified) to win. The heaviest boat that sinks at the start doesn't count. That makes every prize a real engineering challenge.
 
 For a list of tested ideas, see the [prize catalogue](08-Race-Format.md#prize-catalogue).
 
@@ -61,6 +61,7 @@ Be creative! The best chicanes tell a little story about the business.
 | Dog school | Leash curtain: leashes hanging into the water |
 | Carpenter, joiner | Wooden slalom gates, a narrow "harbour entrance" |
 | Sawmill | A floating log boom with a gap |
+| Chimney sweep | Clinker bricks or granite blocks placed in the creek: a rocky obstacle course |
 | Bakery | A concrete pretzel or bread loaf on the creek bed (see workshop below) |
 | Plumber | A pipe tunnel: a short, wide, clean pipe the boats float through |
 | Fire brigade | A gentle spray tunnel from the bank |
@@ -70,11 +71,15 @@ Be creative! The best chicanes tell a little story about the business.
 | Hairdresser | A "brush" of natural fibre string hanging into the water |
 | Village shop | A concrete shopping basket as an island |
 
+**Best materials:** natural stone (granite, sandstone), fired clay bricks and clinker, untreated wood. They are inert, so they don't release anything into the water, and they can go in the creek right away.
+
 **Please avoid** old car tyres, rubber mats and anything that releases microplastics or other harmful substances. Also avoid loose straw or hay, which washes away.
 
-## Sponsor workshops: cast your product in concrete
+## Sponsor workshops: make your own chicane
 
-This is a great way to create identification. The sponsor's team makes their own chicane.
+This is a great way to create identification. The sponsor's team makes their own chicane together. Casting in concrete is **one example**. Be creative: the team can also carve wood, paint stones or build a gate.
+
+### Example: cast your product in concrete
 
 **The idea:** The staff cast a symbol of their business in concrete, for example a pretzel, a coin, a paw, a tooth or a house. Then they paint it and bring it to the race as their chicane. Afterwards, it can go into their shop window.
 

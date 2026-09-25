@@ -32,9 +32,9 @@ Local businesses are part of the race: each sponsor sets up a themed obstacle on
 
 _[Village], [date]._ – _[Number]_ boats made of corks, drink cartons, wood offcuts and old T-shirts raced down the _[creek name]_ on Saturday. _[Number]_ builders aged _[youngest]_ to _[oldest]_ had designed and built them themselves. About _[number]_ spectators cheered along the banks.
 
-The fastest boat was _[boat name]_ by _[first name, age]_. _[One sentence on what was special about it.]_ The Underdog Prize of the dog school for the slowest boat to finish went to _[boat name]_, which needed _[time]_ and made it through the leash curtain. The audience chose _[boat name]_ as their favourite with _[number]_ talers.
+The fastest boat was _[boat name]_ in _[time]_. _[One sentence on what was special about it.]_ The Underdog Prize of the dog school for the slowest boat to finish went to _[boat name]_, which needed _[time]_ and made it through the leash curtain. The audience chose _[boat name]_ as their favourite with _[number]_ talers.
 
-"_[Quote from a child builder, e.g. about what went wrong and how they fixed it]_," said _[first name, age]_.
+"_[Quote from a builder, e.g. about what went wrong and how they fixed it]_," said the builder of _[boat name]_. _(Results and photos show boat names only. Only name a child if the family agrees.)_
 
 Before the race, _[number]_ children and adults had built their boats in _[number]_ workshops. In the weeks before, _[village]_ residents collected _[kg]_ of material. After the race, all _[number]_ boats were recovered from the creek. Not a single piece was left behind.
 

@@ -2,6 +2,13 @@
 
 Workshops are where most of the learning happens. People can build at home, but open workshops make sure **everyone** can take part, even without tools or materials at home.
 
+There are two kinds:
+
+- **Building stations on race day:** In the morning of the race, the Euroboxes are open at the building stations. Many boats are built right there, then registered and put into the gallery.
+- **Workshops before the event:** optional sessions in the weeks before, at school, in the village hall or with sponsors.
+
+The tips on this page apply to both.
+
 ## Format
 
 | | Recommendation |

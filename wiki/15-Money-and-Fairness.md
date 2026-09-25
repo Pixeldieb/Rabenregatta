@@ -17,10 +17,10 @@ Every participating child gets a voucher for one ice cream. You can decide to gi
 **How it works:**
 
 1. **Before the event:** Agree with a local ice cream vendor (ice cream parlour, café, ice cream van) on a **fixed price per voucher**.
-2. **Make the vouchers:** numbered and stamped, so they can't simply be copied. See [ice cream voucher template](../templates/ice-cream-voucher.md).
-3. **At registration:** hand out one voucher per child and note the number range handed out.
+2. **Use cloakroom tickets:** The numbered double ticket is the boat's start number, and its **tear-off stub is the ice cream voucher**. See [Registration and race office](17-Race-Office.md#cloakroom-tickets-start-number-and-ice-cream-in-one). For children without their own boat, keep a separate roll of numbered vouchers. See [ice cream voucher template](../templates/ice-cream-voucher.md).
+3. **At registration:** the builder gets the stub. For boats built by several children, give extra vouchers from the separate roll.
 4. **During the event:** children redeem them with the vendor.
-5. **Afterwards:** the vendor hands in the collected vouchers. You count them together, and the organiser pays according to the number of vouchers (against an invoice).
+5. **Afterwards:** the vendor hands in the collected stubs and vouchers. You count them together, and the organiser pays according to the number of vouchers (against an invoice).
 
 This way you only pay for ice cream that was actually eaten, and the vendor has a good day too. Ideally the ice cream vendor is on site, or within walking distance.
 
@@ -33,9 +33,11 @@ Adults race in their own class, the **Grown-up ravens (18+)**, and pay a **small
 - Say openly what the money is used for. *"Your start fee pays for the children's ice cream."* Most adults are happy to pay.
 - Keep a simple list of income with a cash box and a receipt book. If a club organises the event, follow its bookkeeping rules.
 
-## Duck race lottery (optional)
+## Example of alternative funding: duck race lottery
 
-Want to raise donations? Add a **rubber duck race** as the grand finale after the boat final.
+This is just **one example** of how to raise donations without charging children. Other ideas: a cake sale by a local club, a donation box at the gallery, a raffle of sponsor goods.
+
+A **rubber duck race** can be the grand finale after the boat races.
 
 **How it works:**
 

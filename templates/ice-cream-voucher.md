@@ -1,6 +1,8 @@
 # Ice Cream Voucher
 
-*Print on card, 8 vouchers per A4 page. Number them and stamp each one on the back. See [Money and fairness](../wiki/15-Money-and-Fairness.md#ice-cream-vouchers).*
+*Main method: the **tear-off stub of the cloakroom ticket** that is the boat's start number. See [Registration and race office](../wiki/17-Race-Office.md#cloakroom-tickets-start-number-and-ice-cream-in-one).*
+
+*This template is for **extra vouchers**, for children without their own boat (e.g. siblings in a family team). Print on card, 8 per A4 page, numbered from 501 upwards so they don't overlap with the ticket numbers. Stamp each one on the back. See [Money and fairness](../wiki/15-Money-and-Fairness.md#ice-cream-vouchers).*
 
 ---
 
@@ -10,7 +12,7 @@
 | **One ice cream** for a brave boat builder! | **One ice cream** for a brave boat builder! |
 | Redeem at: _[ice cream vendor]_ | Redeem at: _[ice cream vendor]_ |
 | Valid: _[date]_ | Valid: _[date]_ |
-| No. **001** | No. **002** |
+| No. **501** | No. **502** |
 
 *(repeat)*
 
@@ -31,7 +33,8 @@
 
 | Number range | Handed out by | To (group) | Date |
 |---|---|---|---|
-| 001–050 | Race office | Participating children | |
+| Tickets 1–60 | Race office | Builders (stubs of the cloakroom tickets) | |
+| 501–540 | Race office | Children without their own boat | |
 | | | | |
 
 **Handed out:** ______ **Redeemed (counted with the vendor):** ______ **Amount paid:** € ______

@@ -17,6 +17,7 @@
 - [Money and fairness](15-Money-and-Fairness.md)
 
 **Race**
+- [Registration and race office](17-Race-Office.md)
 - [Race format](08-Race-Format.md)
 - [Race day runbook](09-Race-Day-Runbook.md)
 - [Documenting the boats](16-Documenting-the-Boats.md)

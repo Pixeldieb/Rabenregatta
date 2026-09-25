@@ -40,7 +40,7 @@ On a creek, the wind often comes from changing directions: trees, hedges and ben
 
 - **Material:** cotton cloth, old T-shirts, paper coated with beeswax. Avoid plastic foil. It tears into pieces.
 - **Mast:** a skewer, dowel or thin stick. Fix it firmly at the bottom. A wobbly mast breaks.
-- **Height:** remember the 42 cm limit, and remember [stability](02-staying-upright.md)! A tall sail needs weight low down.
+- **Height:** there's no height limit, but remember [stability](02-staying-upright.md)! Experience shows that boats taller than about 40 cm usually capsize. A tall sail needs weight low down.
 - **Test** in the test harbour with a piece of cardboard as a "wind machine".
 
 ## ✅ Check yourself

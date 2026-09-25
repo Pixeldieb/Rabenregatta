@@ -10,8 +10,8 @@ A Rabenregatta needs about **12 weeks** of relaxed planning. A small team of 3‚Ä
 | **Creek & safety** | Venue, permissions, safety concept, equipment |
 | **Workshops** | Build sessions, Euroboxes, tools, material collection |
 | **Outreach & sponsors** | Posters, press, schools, clubs, social media, sponsors and their chicanes |
-| **Race office** | Registrations, start numbers, boat register, heat plan, times, audience vote, results, prizes |
-| **Photos** | Photo station at check-in, pictures during the race, archive. See [Documenting the boats](16-Documenting-the-Boats.md) |
+| **Race office** | Registrations, start numbers, boat register (= race order), calling heats, times, audience vote, results, prizes |
+| **Photos** | Photo station at registration, pictures during the race, archive. See [Documenting the boats](16-Documenting-the-Boats.md) |
 
 One person can hold several roles.
 
@@ -24,14 +24,15 @@ One person can hold several roles.
 - [ ] Pick a date and a rain date. Avoid school holidays and other village events.
 - [ ] Draft a budget. See [budget template](../templates/budget.md).
 - [ ] Find partners: school, kindergarten, fire brigade, sports club, local history club, carpenter.
-- [ ] Make a list of local businesses to ask as **sponsors**. See [Sponsors and chicanes](14-Sponsors-and-Chicanes.md).
+- [ ] Make a list of local businesses to ask as **sponsors**, and visit them now. See [Sponsors and chicanes](14-Sponsors-and-Chicanes.md).
+- [ ] Aim to have the **prize catalogue** with all win conditions ready before the first announcement. Ideally, start even earlier: **prizes should be known months ahead**.
 
 ### 10 weeks before
 
 - [ ] Talk to the landowner, the municipality and, if needed, the water and nature authorities. See [Safety and nature](04-Safety-and-Nature.md).
 - [ ] Clarify insurance (municipality, club insurance or event insurance).
 - [ ] Adapt the [rules](../rules/official-rules.md) to your creek.
-- [ ] **Visit sponsors in person.** Agree on prize, chicane and win condition. See [sponsor sheet](../templates/sponsor-sheet.md) and [letter to businesses](../marketing/letter-to-businesses.md).
+- [ ] **Confirm all sponsors.** Agree on prize, chicane and win condition. See [sponsor sheet](../templates/sponsor-sheet.md) and [letter to businesses](../marketing/letter-to-businesses.md).
 - [ ] Agree with an **ice cream vendor** on a price per voucher. See [Money and fairness](15-Money-and-Fairness.md).
 - [ ] Optional duck race: ask the municipality whether the lottery needs a permit.
 
@@ -40,14 +41,13 @@ One person can hold several roles.
 - [ ] Start the **material collection**: set up collection boxes in school, town hall, shop. See [marketing](../marketing/).
 - [ ] Plan a **litter collection walk** as a material treasure hunt. See [Materials](05-Materials-Traffic-Light.md#2-litter-collection).
 - [ ] Ask local businesses for offcuts: carpenter, joinery, wine bar (corks), caf√© (clean cartons).
-- [ ] Publish the first announcement.
+- [ ] Publish the first announcement, **with all prizes and win conditions**. Every later announcement repeats them.
 - [ ] Hold **sponsor workshops** for concrete chicanes now. Concrete needs at least 4 weeks to cure.
 - [ ] Buy or borrow Euroboxes and tools. See [Eurobox system](06-Eurobox-System.md).
 
 ### 6 weeks before
 
 - [ ] Open registrations. See [registration form](../templates/registration-form.md).
-- [ ] **Publish the prize catalogue** with all win conditions, so builders can choose their goal.
 - [ ] Hold the first **build workshops**. See [Build workshops](10-Build-Workshops.md).
 - [ ] Build the tournament equipment. See [Tournament equipment](07-Tournament-Equipment.md).
 
@@ -67,7 +67,7 @@ One person can hold several roles.
 
 ### 1 week before
 
-- [ ] Close registrations. Make the heat plan. See [heat plan](../templates/heat-plan.md).
+- [ ] Print the [boat register](../templates/boat-register.md) (clusters of three) and get cloakroom tickets.
 - [ ] Brief all helpers.
 - [ ] Check the weather forecast. Decide on the rain plan 48 hours before.
 - [ ] Pack the boxes. See [packing lists](../checklists/eurobox-packing-lists.md).

@@ -75,7 +75,7 @@ Columns: **Target** = quantity that belongs in the box · **Out** = counted befo
 | Sandpaper (grits 80, 120, 180) | 10 each | | |
 | Wood glue D3 (small bottles) | 3 | | |
 | Water-based paints, brushes | 1 set | | |
-| Start numbers (card, laminated or wooden) | 50 | | |
+| Cloakroom tickets (double, numbered, roll): start number + ice cream stub | 1 roll | | |
 | Masking tape (for marking only, not for boats) | 2 | | |
 
 ## 🔴 Red: Safety (400 × 300 × 120)
@@ -94,18 +94,18 @@ Columns: **Target** = quantity that belongs in the box · **Out** = counted befo
 
 | Item | Target | Out | Back |
 |---|---|---|---|
-| Registration list, heat plans, score sheets | 1 set | | |
+| Boat register (clusters of three), score sheets | 1 set | | |
 | Builder pledges, photo consent forms (blank) | 50 each | | |
 | Certificates (blank) | 60 | | |
 | Clipboards, pens | 6 | | |
 | Stopwatches (or phones) | 3 | | |
-| Boat register, prize catalogue, sponsor sheets | 1 set | | |
+| Prize catalogue, sponsor sheets | 1 set | | |
 | Kitchen scale (1 g, up to 5 kg) + ruler 50 cm | 1 each | | |
 | A4 grid mat for the photo station | 1 | | |
 | Gold talers (one per participant + 20%) | | | |
 | Silver talers (one per expected spectator + 20%) | | | |
 | Voting containers with number cards | 50 | | |
-| Ice cream vouchers, numbered and stamped | | | |
+| Extra ice cream vouchers for children without their own boat | | | |
 | Rubber ducks, numbered (optional) | | | |
 | Prize bags | | | |
 | Megaphone + batteries (charged) | 1 | | |

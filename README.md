@@ -14,11 +14,11 @@ This repository is an **open kit**. Use it to run a Rabenregatta in your own vil
 
 | | |
 |---|---|
-| **Boat size** | Must fit on a DIN A4 footprint (21 × 29.7 cm), max. 42 cm high |
+| **Boat size** | Must fit on a DIN A4 footprint (21 × 29.7 cm). No height limit: physics sets it |
 | **Who builds** | You. No kits, no downloaded plans, no last year's boat |
 | **Materials** | Reused or natural. No Styrofoam, no glitter, no batteries |
 | **Power** | Only the creek and the wind |
-| **Race** | Heats on the creek with sponsor chicanes, then a final |
+| **Race** | Heats of three in registration order, timed, with sponsor chicanes |
 | **Prizes** | Many kinds: fastest, slowest, heaviest, tallest, audience favourite and more |
 | **Cost** | Free for everyone aged 0–18, with an ice cream for every child |
 | **Rule no. 1** | Every boat and every piece comes back out of the water |
@@ -34,6 +34,7 @@ This repository is an **open kit**. Use it to run a Rabenregatta in your own vil
 | Read the rules | [Official rules](rules/official-rules.md) · [Rules at a glance](rules/rules-at-a-glance.md) |
 | Learn how to build a boat | [Tutorials](tutorials/README.md) |
 | Pack the tool and material boxes | [Eurobox system](wiki/06-Eurobox-System.md) |
+| Run registration and the race office | [Registration and race office](wiki/17-Race-Office.md) |
 | Build the race equipment | [Tournament equipment](wiki/07-Tournament-Equipment.md) |
 | Involve local businesses | [Sponsors and chicanes](wiki/14-Sponsors-and-Chicanes.md) |
 | Keep it free and fair | [Money and fairness](wiki/15-Money-and-Fairness.md) |
@@ -57,6 +58,7 @@ Rabenregatta/
 ├── templates/             ← forms, score sheets, budget, survey
 ├── checklists/            ← packing lists, race day, after the event
 ├── marketing/             ← poster text, press release, social posts, letters
+├── gallery/               ← online boat gallery and records board
 ├── assets/                ← logos, photos, drawings
 ├── scripts/               ← helper that publishes wiki/ to the GitHub Wiki
 ├── CONTRIBUTING.md        ← how to share your improvements

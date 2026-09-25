@@ -1,20 +1,17 @@
 # Race Format
 
-This page explains how the race works: age groups, heats, the final and the prizes. The binding version is in the [official rules](../rules/official-rules.md).
+This page explains how the race works: classes, heats, the rescue rule and the prizes. The binding version is in the [official rules](../rules/official-rules.md). How boats are registered and called is explained in [Registration and race office](17-Race-Office.md).
 
-## Age groups
-
-| Group | Age | Fee | Note |
-|---|---|---|---|
-| 🐣 **Raven chicks** | 6–9 | Free | An adult may help with safety and tools, never with ideas or building |
-| 🐦 **Young ravens** | 10–13 | Free | Build alone or in teams of up to 3 |
-| 🐦‍⬛ **Teen ravens** | 14–17 | Free | Build alone or in teams of up to 3 |
-| 👨‍👩‍👧 **Raven families** | Mixed, at least one child | Free | Children under 6 take part here. The youngest member has the final say on the design |
-| 🦅 **Grown-up ravens** | 18+ | Small start fee | Adults, sponsor teams, clubs |
+## Classes
 
 **Taking part is always free for children and teens aged 0–18.** See [Money and fairness](15-Money-and-Fairness.md).
 
-Adapt the groups to the number of participants. With fewer than 20 boats, combine the youth groups.
+| Class | Who | Fee |
+|---|---|---|
+| **Kids and teens** | Everyone up to 17, alone, in teams or with their family | Free |
+| **Grown-up ravens** | Adults 18+, sponsor teams, clubs | Small start fee |
+
+Optional, for larger events: split the kids into age groups, for example 6–9, 10–13 and 14–17. Add a column for the group in the boat register.
 
 ## The course
 
@@ -22,74 +19,68 @@ Start board → course with **sponsor chicanes** → finish board → catch net.
 
 Each sponsor sets up one themed chicane along the course. See [Sponsors and chicanes](14-Sponsors-and-Chicanes.md). Chicanes make the race exciting and unpredictable. A slow boat can overtake a fast one that gets caught in the leash curtain.
 
-## Heats and final
+## Heats
 
-Boats race in **heats** of 4–6 boats. The first two in each heat go through to the next round. The best boats race in the **final**.
+- Boats race in **heats of three**, in the order of registration. The clusters in the [boat register](../templates/boat-register.md) are the heats.
+- Only **registered** boats are called.
+- **Every boat is timed.** The starter starts the stopwatch when the gate opens. A timekeeper at the finish calls out each boat's time, and the race office writes it down.
+- The **fastest time** wins the Fastest Raven prize. All times together decide other prizes too, like the Underdog (slowest boat to finish).
 
-**Example with 24 boats in one age group:**
+**Optional final:** For a grand finale, let the three fastest boats race again at the end. Their final order decides places 1–3.
 
-1. **Round 1:** 4 heats of 6 boats → the first 2 go through (8 boats)
-2. **Semi-finals:** 2 heats of 4 boats → the first 2 go through (4 boats)
-3. **Final:** 4 boats → places 1–3
+## The rescue rule
 
-Use the [heat plan template](../templates/heat-plan.md).
+Boats get stuck on stones, in chicanes, or they tip over. That's part of the race.
 
-### Time every boat in round 1
-
-Round 1 is the only round in which **all** boats race. So record the **finish time of every boat** in round 1, not only the order. You need these times for prizes like the **Underdog Prize** (slowest boat to finish).
-
-- The starter starts the stopwatch when the gate opens.
-- A timekeeper at the finish calls out the time for each boat. The race office writes it down.
-- **Time limit:** a boat that has not finished after _[10]_ minutes, or that is out (stuck for more than 2 minutes or sunk), gets "DNF" (did not finish).
-
-### Second chance
-
-Boats that did not qualify may race in a **"lucky loser" heat**. Its winner gets the last place in the next round.
-
-### If a boat gets stuck
-
-- Only the **ravens** (helpers with raven sticks) may free a stuck boat. They push it gently back into the current.
-- Builders **do not** touch their boats during the race.
-- A boat that is still stuck after 2 minutes, or that sinks, is out of this heat. Cheering is allowed!
+- **Once per race, a boat may be freed or set upright.** A course helper (a "raven") does this with a raven stick. If your creek is safe enough, you can allow the builders to do it themselves from the bank.
+- If the boat gets stuck or capsizes **a second time** and does not finish, it is **disqualified** for this race.
+- A boat that sinks is disqualified. Cheering is still allowed!
+- Otherwise, **no one touches the boats** during the race: no pushing, no blowing.
 - Chicanes are part of the course. Getting stuck in a chicane is not a reason for a restart.
+- **Time limit** (optional): a boat that has not finished after _[10]_ minutes is disqualified.
 
-### If a boat breaks
+## No changes after registration
 
-Builders may repair their boat between heats at the **repair station**, with the materials in the boxes. The boat must still pass the A4 gauge.
+Once a boat is registered, it stays as it is, even if something breaks during the race. This keeps the race fair, and the weight and height stay valid for the prizes. Builders should use the test harbour **before** they register.
+
+## No height limit
+
+We don't set a height limit. Experience shows that boats taller than about **40 cm capsize anyway**. Physics sets the limit (see [Staying upright](../tutorials/02-staying-upright.md)). The height is still **measured and recorded**. It is important for the prizes, for the boat statistics and for the [online gallery](16-Documenting-the-Boats.md#online-gallery-and-fan-culture).
+
+If your start or finish board is low above the water, make sure tall boats can pass underneath, or raise the boards.
 
 ## Prizes
 
-**Many different prizes, so that many different boats can win.** A fast boat, a slow boat, a heavy boat, a tall boat: each is a different design challenge. Children who know the prizes in advance can choose their own goal.
+**Many different prizes, so that many different boats can win.** A fast boat, a slow boat, a heavy boat, a tall boat: each is a different design challenge.
+
+**All prizes and win conditions are on every announcement, months before the event.** Builders can choose their goal and design for it. This is one of the most important ingredients of Rabenregatta.
 
 ### Fixed prizes (always)
 
-| Prize | Criterion |
+| Prize | Win condition |
 |---|---|
-| 🏁 **Fastest Raven** | Winner of the final (per age group) |
-| ❤️ **Audience Raven** | Most talers in the audience vote (see below) |
+| 🏁 **Fastest Raven** | Fastest race time |
+| ❤️ **Audience Raven** | Most talers in the audience vote |
 
 ### Prize catalogue
 
-More prizes come from the **sponsors**. Each sponsor pays for a prize and chooses its win condition. See [Sponsors and chicanes](14-Sponsors-and-Chicanes.md#win-conditions).
+More prizes come from the **sponsors**. Each sponsor pays for a prize and chooses its win condition. See [Sponsors and chicanes](14-Sponsors-and-Chicanes.md#win-conditions). These are examples. Choose what fits your sponsors.
 
-By default, a boat must **finish round 1** to win any of these prizes.
+By default, a boat must **finish the race** (not disqualified) to win any of these prizes.
 
 | Prize | Win condition | How to measure |
 |---|---|---|
-| 🐢 **Underdog** | Slowest boat that still finishes | Finish times in round 1 |
-| 🏋️ **Heavyweight** | Heaviest boat | Kitchen scale at check-in |
-| 🪶 **Featherweight** | Lightest boat | Kitchen scale at check-in |
-| 🗼 **Skyscraper** | Tallest boat | Measured at check-in (see note) |
-| ⚓ **Iron Raven** | Finishes all its heats without repairs | Race office notes repairs |
+| 🐢 **Underdog** | Slowest boat that still finishes | Race times |
+| 🏋️ **Heavyweight** | Heaviest boat | Weight at registration |
+| 🪶 **Featherweight** | Lightest boat | Weight at registration |
+| 🗼 **Skyscraper** | Tallest boat | Height at registration |
+| 🛟 **Iron Raven** | Finishes without needing its rescue | Race office notes rescues |
 | ♻️ **Treasure Raven** | Best reuse of materials | Jury ([score sheet](../templates/score-sheet.md)) |
 | 💡 **Clever Raven** | Most creative idea | Jury |
-| 🎯 **Precision Raven** | Finish time closest to a secret time (e.g. 1:30) | Finish times in round 1 |
+| 🎯 **Precision Raven** | Race time closest to a secret time (e.g. 1:30) | Race times |
 | 🧺 **Cargo Raven** | Carries the most cargo (e.g. marbles in a cup) to the finish | Count at the finish |
-| 🦆 **Chicane Master** | Passes the sponsor's chicane without getting stuck, fastest | Chicane judge |
+| 🦆 **Chicane Master** | Fastest through the sponsor's chicane without getting stuck | Chicane judge |
 | 🌱 **Nature Raven** | Built only from green-list materials | Material check |
-| 🐣 **Youngest Captain** | Youngest builder who finishes | Registration |
-
-**Note on "Skyscraper":** It only works if the height limit is generous. Otherwise many boats end at exactly the limit. Either raise the limit (and make sure boats still fit under the start and finish boards), or break ties with the audience vote.
 
 **Prize bags:** Each prize comes in a prize bag. Sponsors can add something to every bag. Example: the dog school puts a €20 book voucher into every prize bag.
 
@@ -97,24 +88,23 @@ By default, a boat must **finish round 1** to win any of these prizes.
 
 ## The audience vote: gold and silver talers
 
-The Audience Raven is chosen with **reusable talers** (tokens).
+The Audience Raven is chosen with **reusable talers** (tokens) **in the gallery**.
 
 - Every **participant** gets **one gold taler**.
 - Every **spectator** gets **one silver taler**.
-- Gold and silver **count the same**: one taler, one vote. The two colours are simply a nice touch. Builders get something special.
+- Gold and silver **count the same**: one taler, one vote. The colours are a nice touch. Builders get something special.
 - **One taler per person, not per boat.** Hand them out personally at registration (participants) and at the info stand (spectators).
-- Every boat has a **voting container** with its start number, set up next to the boat in the **boat exhibition** (a table or a line of boats near the finish, during the lunch break).
-- People drop their taler into the container of their favourite boat. Honour rule: **not your own boat**.
+- In the [gallery](17-Race-Office.md#the-gallery), every boat has a **voting container with its number**. People drop their taler into the container of their favourite boat. Honour rule: **not your own boat**.
 - The race office counts before the award ceremony. Afterwards, the talers go back into the black box for next year.
 
 **Why this way?** We learned it the hard way. Sticker voting was messy and couldn't be reused. When only participants voted and got **one taler per boat**, children with several boats simply voted for themselves several times. With one taler per person and the whole audience voting, the vote becomes a real audience prize.
 
-**Talers:** wooden discs (e.g. slices of a branch or wooden coins from a craft shop), painted gold and silver with water-based paint. **Containers:** jars, tins or small boxes with a large start number.
+**Talers:** wooden discs (e.g. slices of a branch or wooden coins from a craft shop), painted gold and silver with water-based paint. **Containers:** jars, tins or small boxes with a large number.
 
 ## Certificates for everyone
 
-Every participant gets a **certificate** with their boat's name, ideally with the boat photo. See [certificate template](../templates/certificate.md).
+Every boat gets a **certificate** with its name, ideally with the boat photo. See [certificate template](../templates/certificate.md).
 
 ## Commentary
 
-A good commentator with a megaphone turns a creek into a stadium. Introduce each boat by name and builder, and each chicane with its sponsor. *"And here comes Cork Express by Mia, 8 years old, built from 23 wine corks, heading straight for the dog school's leash curtain!"*
+A good commentator with a megaphone turns a creek into a stadium. Introduce each boat **by its name** and each chicane with its sponsor. *"And here comes Cork Express, 23 wine corks, 412 grams, heading straight for the dog school's leash curtain!"*

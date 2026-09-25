@@ -1,4 +1,6 @@
-# Rabenregatta _[Village, Year]_: Registration
+# Rabenregatta _[Village, Year]_: Pre-registration (optional)
+
+> **Organisers:** This form is **optional**. Use it if you want to know numbers in advance or plan workshops. The actual registration for the race takes place **on race day at the race office**. There, only the **boat** is registered: boat name, number, weight, height. See [boat register](boat-register.md).
 
 **Race day:** _[date, time]_ · **Place:** _[creek, meeting point]_
 **Registration by:** _[date]_ · **Hand in at:** _[place / e-mail]_
@@ -12,7 +14,7 @@
 | | |
 |---|---|
 | **Boat name** | |
-| **Age group** | ☐ Raven chicks (6–9) ☐ Young ravens (10–13) ☐ Teen ravens (14–17) ☐ Raven family ☐ Grown-up ravens (18+) |
+| **Class** | ☐ Kids and teens (up to 17, free) ☐ Grown-up ravens (18+) |
 
 ## Builder(s)
 

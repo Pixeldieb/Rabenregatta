@@ -26,4 +26,4 @@ _[Place, date]_ ______________________ _[Signature organiser]_ _________________
 
 ---
 
-> **Organisers:** Add the boat photo from the check-in if you can. Open this file in LibreOffice or convert it with Pandoc, add a raven drawing from `assets/`, print on thick recycled paper. Tick the prize box if there is one. Every participant gets a certificate.
+> **Organisers:** Add the boat photo from the registration if you can. Open this file in LibreOffice or convert it with Pandoc, add a raven drawing from `assets/`, print on thick recycled paper. Tick the prize box if there is one. Every participant gets a certificate.

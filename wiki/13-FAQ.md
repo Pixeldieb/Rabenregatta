@@ -8,6 +8,18 @@
 
 **For children and teens aged 0–18: no, never.** That's a core rule of Rabenregatta. Every child even gets an ice cream voucher. Adults racing in the grown-up class pay a small start fee. Materials are donated, collected or found in nature. See [Money and fairness](15-Money-and-Fairness.md).
 
+### Why are boats announced by name and not the builders?
+
+So that the boat is in the spotlight, not the child. If a boat sinks, *the boat* sank, not the child in front of the whole village. If it wins, the builder knows exactly who built it. See [Registration and race office](17-Race-Office.md#the-boat-not-the-builder).
+
+### Can I still change my boat after registration?
+
+No. Once registered, a boat stays as it is. That's fair to everyone and keeps weight and height valid for the prizes. Test your boat in the test harbour first. Or build a second boat and register that one too!
+
+### Is there a height limit?
+
+No. Experience shows that boats taller than about 40 cm capsize anyway. We still measure the height for the prizes and the boat gallery.
+
 ### How do sponsors take part?
 
 Each sponsor pays for a prize, sets up a themed chicane on the course and chooses the win condition of their prize. See [Sponsors and chicanes](14-Sponsors-and-Chicanes.md).
@@ -58,4 +70,4 @@ Absolutely, and it stays free for pupils. Rabenregatta covers physics (buoyancy,
 
 ### What happens to the boats afterwards?
 
-The builders take them home. They are proud of them! But first every boat gets photographed at check-in. See [Documenting the boats](16-Documenting-the-Boats.md). Boats that are left behind: reusable parts go back into the material boxes, the rest is sorted for recycling.
+The builders take them home. They are proud of them! But first every boat gets photographed at registration. See [Documenting the boats](16-Documenting-the-Boats.md). Boats that are left behind: reusable parts go back into the material boxes, the rest is sorted for recycling.

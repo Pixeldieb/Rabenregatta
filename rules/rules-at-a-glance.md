@@ -1,4 +1,4 @@
-# 🐦‍⬛ Rabenregatta: The Rules in 7 Points
+# 🐦‍⬛ Rabenregatta: The Rules in 8 Points
 
 *Print this page and hang it up in the workshop.*
 
@@ -7,7 +7,7 @@
 ### 1. 📄 Small boat
 
 Your boat must fit on **one sheet of A4 paper**.
-It may be up to **42 cm high**, including the mast.
+As tall as you like, but tall boats tip over easily!
 
 ### 2. ✋ Built by you
 
@@ -31,9 +31,14 @@ No pushing, no blowing, no motors.
 ### 6. 👀 Hands off
 
 During the race you **do not touch** your boat.
-If it gets stuck, the ravens help.
+If it gets stuck or tips over, it can be rescued **once**.
 
-### 7. 🧹 Leave no trace
+### 7. 🔒 Finished is finished
+
+Once your boat is registered, it stays as it is.
+Test it first in the test harbour!
+
+### 8. 🧹 Leave no trace
 
 Every boat and every piece comes **out of the water** again.
 
@@ -46,4 +51,4 @@ Every boat and every piece comes **out of the water** again.
 **Many prizes:** 🏁 the fastest · 🐢 the slowest · 🏋️ the heaviest · 🗼 the tallest · ❤️ the audience favourite · and more!
 Choose your goal, then build your boat.
 
-**Audience vote:** You get one 🟡 gold taler. Put it in the jar of your favourite boat. Not your own! 😉
+**Audience vote:** You get one 🟡 gold taler. Put it in the jar of your favourite boat in the gallery. Not your own! 😉

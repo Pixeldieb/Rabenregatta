@@ -34,7 +34,7 @@ What should the prize be awarded for?
 |---|---|
 | ☐ Measurable (weigh, measure, time, count) | |
 | ☐ Fair for all ages, or per age group | |
-| ☐ Boat must finish round 1 (default) | ☐ yes ☐ no, because: |
+| ☐ Boat must finish its race (default) | ☐ yes ☐ no, because: |
 | ☐ Tie rule | |
 | ☐ Published by _[date]_ | |
 

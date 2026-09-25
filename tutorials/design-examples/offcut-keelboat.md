@@ -35,7 +35,7 @@ A long wooden hull with a pointed front slides easily through the water. A keel 
 - **Shallow creek?** Keep the keel short (max. 3–4 cm deep) and round its front edge so it slides over stones.
 - Rub the hull with warm beeswax so it absorbs less water.
 - Mast: drill a hole, push the dowel in tightly. A drop of water makes it swell and hold.
-- Check the 42 cm limit, measured from the bottom of the keel to the top of the mast!
+- Tall masts tip boats over. Boats over about 40 cm (from the bottom of the keel to the top of the mast) usually capsize.
 
 ## Testing
 
