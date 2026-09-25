@@ -50,6 +50,8 @@ The self-efficacy effect only happens if the builder is really the one who solve
 | "That's wrong." | "Interesting! Let's test it." |
 | "Great job!" | "You figured out how to fix the mast. How did you do it?" |
 
+**Volunteers are gold.** At Rabenregatta, many adults on site offer to help, especially at the power tool station. Welcome them, give them a one-minute briefing ("ask, don't do") and they become part of the event.
+
 **When helpers may step in:**
 
 - Safety: tools used dangerously, sharp edges

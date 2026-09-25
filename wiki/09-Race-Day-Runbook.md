@@ -43,7 +43,7 @@ A sample schedule for a race day with about 30–50 boats. Adjust the times to y
 | Ravens (course helpers) | 2–4 | Along the course. Hand raven sticks to builders for their one rescue, make sure nobody steps into the creek, report rescues. Recover stuck boats after the heat, in boots |
 | Catch net | 1–2 | Recover boats, bring them back to their builders |
 | First aid | 1 | At the first aid station |
-| Building stations | 2–4 | Tool briefing, help by asking questions, test harbour |
+| Building stations | 2–4 + volunteers | Tool briefing, help by asking questions, test harbour. Adult volunteers from the audience help at the power tool station, one adult per child at a machine |
 
 ## Running a heat
 

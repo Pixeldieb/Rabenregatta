@@ -33,7 +33,7 @@
 - [ ] Info stand with silver talers
 - [ ] Gauge and material check: A4 gauges, traffic light poster
 - [ ] Building stations: tables and benches covered with **craft mats**; Blue 1 + 2, green, yellow, grey boxes, test harbour
-- [ ] **Power tool station** (Blue 3): own table, power checked, batteries charged, supervisor assigned
+- [ ] **Power tool station** (Blue 3): own table, power checked, batteries charged. Ask adult volunteers to help: one adult next to each child at a machine
 - [ ] First aid: red box, first aider present, emergency sheet visible
 - [ ] Hand-washing station
 - [ ] Toilets accessible

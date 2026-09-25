@@ -49,7 +49,7 @@ Our core tool list comes from practice. Items marked ➕ are recommended additio
 
 ### 🔵 Blue 3: Power tool station (Eurobox 600 × 400 × 320)
 
-Used only at the **supervised power tool station**. See [Safety](../wiki/04-Safety-and-Nature.md#power-tool-station).
+Used at the **power tool station**, children with an adult volunteer next to them. See [Safety](../wiki/04-Safety-and-Nature.md#power-tool-station).
 
 | Item | Qty | Spec / note | Type | Source |
 |---|---|---|---|---|

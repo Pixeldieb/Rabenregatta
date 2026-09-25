@@ -23,21 +23,24 @@ Rabenregatta is a family event near water, with tools. A little planning keeps e
 
 ### Power tool station
 
-Cordless drill, cordless jigsaw, hot glue guns and the safe cardboard saw are used **only at a separate power tool station** (Blue 3), with **one adult who supervises only this station** and decides who may use what.
+Cordless drill, cordless jigsaw, hot glue guns and the safe cardboard saw are used at the **power tool station** (Blue 3). Children may use all of them, **with an adult volunteer right next to them**.
 
-| Tool | Who | Rules |
-|---|---|---|
-| **Safe cardboard saw** | Children after a short briefing | Designed not to cut skin, but still: one child at a time, hands flat |
-| **Hot glue gun** | Children with supervision | Low-temperature guns for kids. Heat-proof mat. Never touch the tip or fresh glue. Cold water and burn gel ready |
-| **Cordless drill** | Older kids with 1:1 supervision, adults | Workpiece clamped, never held in the hand. Safety glasses |
-| **Cordless jigsaw** | Adults, or teens with 1:1 supervision | Workpiece clamped. Safety glasses. Remove the battery when changing blades |
+**Our experience:** At every Rabenregatta so far, lots of adults on site volunteered to help, and there have been **no problems with the machines**. Plenty of volunteers is the key: one adult per child at the machine is easy to arrange. The adult judges what the child can do and helps where needed.
+
+If you have fewer volunteers, run the station with fewer machines rather than with less supervision.
+
+| Tool | Tips |
+|---|---|
+| **Safe cardboard saw** | Designed not to cut skin. Hands flat on the cardboard |
+| **Hot glue gun** | Low-temperature guns for younger kids. Heat-proof mat. Don't touch the tip or fresh glue. Cold water and burn gel ready |
+| **Cordless drill** | Clamp the workpiece, don't hold it in your hand. Safety glasses |
+| **Cordless jigsaw** | Clamp the workpiece. Safety glasses. Remove the battery when changing blades |
 
 General rules for the station:
 - Long hair tied back, no loose sleeves or scarves, safety glasses on.
 - Power comes from the mobile power station. Cables run so nobody trips; the power station, batteries and chargers stay out of the rain.
 - Craft mats on the table protect it from hot glue and cutter blades.
-- The supervisor can close the station at any time, for example when it gets too crowded.
-- Power tools help with **hard steps**, but the idea stays with the child. The adult never builds the boat.
+- Power tools help with **hard steps**, but the idea stays with the child. The adult helps; the adult never builds the boat.
 
 ### Health
 

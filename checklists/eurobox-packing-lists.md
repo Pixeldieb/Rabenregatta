@@ -40,7 +40,7 @@ Items marked ➕ are recommended additions to the core tool list.
 
 ## 🔵 Blue 3: Power tool station (600 × 400 × 320)
 
-Only at the supervised power tool station. See [Safety](../wiki/04-Safety-and-Nature.md#power-tool-station).
+Used at the power tool station, children with an adult volunteer next to them. See [Safety](../wiki/04-Safety-and-Nature.md#power-tool-station).
 
 | Item | Target | Out | Back |
 |---|---|---|---|
