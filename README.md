@@ -1,6 +1,28 @@
-# 🐦‍⬛ Rabenregatta
+<h1 align="center">🐦‍⬛ Rabenregatta</h1>
 
-**Build your own boat. Race it on the village creek. Discover what you can do.**
+<p align="center">
+  <strong>Build your own boat. Race it on the village creek. Discover what you can do.</strong>
+</p>
+
+<p align="center">
+  <a href="LICENSE.md"><img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg" alt="License: CC BY-SA 4.0"></a>
+  <a href="https://github.com/Pixeldieb/Rabenregatta/wiki"><img src="https://img.shields.io/badge/handbook-Wiki-0969da?logo=github" alt="Handbook in the Wiki"></a>
+  <img src="https://img.shields.io/badge/open-event%20kit-2e7d32" alt="Open event kit">
+  <img src="https://img.shields.io/badge/UN%20SDG-4%20Quality%20Education-C5192D" alt="UN SDG 4: Quality Education">
+  <br>
+  <img src="https://img.shields.io/badge/free%20for%20kids-ages%200%E2%80%9318-f9a825" alt="Free for kids aged 0–18">
+  <img src="https://img.shields.io/badge/boat%20size-DIN%20A4-8e24aa" alt="Boat size: DIN A4">
+  <img src="https://img.shields.io/badge/materials-reused%20%26%20natural-558b2f" alt="Materials: reused and natural">
+  <img src="https://img.shields.io/badge/leave%20no%20trace-100%25%20recovered-00897b" alt="Leave no trace: 100% recovered">
+  <br>
+  <img src="https://img.shields.io/badge/docs-Markdown-000000?logo=markdown" alt="Docs in Markdown">
+  <img src="https://img.shields.io/badge/language-English-lightgrey" alt="Language: English">
+  <img src="https://img.shields.io/github/last-commit/Pixeldieb/Rabenregatta?label=last%20update" alt="Last update">
+</p>
+
+<p align="center">
+  <img src="assets/images/events/kayna/kayna-banner.jpg" alt="Banner of the Raben-Regatta at the forest pool in Kayna: the race with home-made boats" width="100%">
+</p>
 
 Rabenregatta ("raven regatta") is a small community event. Children, young people, families and adults each build a boat that fits on **one sheet of A4 paper**. They use **reused and planet-friendly materials**. Then all boats race down a local creek.
 
@@ -14,14 +36,41 @@ This repository is an **open kit**. Use it to run a Rabenregatta in your own vil
 
 | | |
 |---|---|
-| **Boat size** | Must fit on a DIN A4 footprint (21 × 29.7 cm). No height limit: physics sets it |
-| **Who builds** | You. No kits, no downloaded plans, no last year's boat |
-| **Materials** | Reused or natural. No Styrofoam, no glitter, no batteries |
-| **Power** | Only the creek and the wind |
-| **Race** | Heats of three in registration order, timed, with sponsor chicanes |
-| **Prizes** | Many kinds: fastest, slowest, heaviest, tallest, audience favourite and more |
-| **Cost** | Free for everyone aged 0–18, with an ice cream for every child |
-| **Rule no. 1** | Every boat and every piece comes back out of the water |
+| 📄 **Boat size** | Must fit on a DIN A4 footprint (21 × 29.7 cm). No height limit: physics sets it |
+| ✋ **Who builds** | You. No kits, no downloaded plans, no last year's boat |
+| ♻️ **Materials** | Reused or natural. No Styrofoam, no glitter, no batteries |
+| 🌊 **Power** | Only the creek and the wind |
+| 🏁 **Race** | Heats of three in registration order, timed, with sponsor chicanes |
+| 🏆 **Prizes** | Many kinds: fastest, slowest, heaviest, tallest, audience favourite and more |
+| 🍦 **Cost** | Free for everyone aged 0–18, with an ice cream for every child |
+| 🧹 **Rule no. 1** | Every boat and every piece comes back out of the water |
+
+---
+
+## A race day in pictures
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/images/events/kayna/kayna-gallery-audience-vote.jpg" alt="Boats made of corks, wood and a yoghurt pot on a bench, each on a white sheet of paper, with a sign for the audience prize" width="100%">
+      <br><strong>The gallery.</strong> Registered boats wait here with their number until their race. The audience votes for their favourite.
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/images/events/kayna/kayna-start-board.jpg" alt="Three children lean over a wooden plank across the creek and place their boats in the water" width="100%">
+      <br><strong>The start.</strong> Three boats per heat, released at the start board.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/images/events/kayna/kayna-creek-sailboat.jpg" alt="A small boat with a blue sail floats down a creek under colourful bunting, a child walks along the bank" width="100%">
+      <br><strong>The race.</strong> Only the creek and the wind move the boats. Builders follow them along the bank.
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/images/events/kayna/kayna-creek-swan-boat.jpg" alt="A swan-shaped boat floats on the creek under two lines of bunting, a child watches from the bank" width="100%">
+      <br><strong>Every boat is different.</strong> Rafts, sailboats, even a swan. Many prizes mean many ways to win.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -44,30 +93,8 @@ This repository is an **open kit**. Use it to run a Rabenregatta in your own vil
 | Print forms and checklists | [Templates](templates/) · [Checklists](checklists/) |
 | Find the science | [Sources](wiki/Sources.md) |
 
-The full handbook is in the **[Wiki](https://github.com/Pixeldieb/Rabenregatta/wiki)**. Its source files are in the [`wiki/`](wiki/Home.md) folder. Edit them there, and every change is published to the Wiki automatically.
-
----
-
-## Repository map
-
-```text
-Rabenregatta/
-├── README.md              ← you are here
-├── wiki/                  ← the handbook: why, how, when (published to the Wiki tab)
-├── rules/                 ← official rules + one-page version for kids
-├── tutorials/             ← boat-building basics + design examples
-├── templates/             ← forms, score sheets, budget, survey
-├── checklists/            ← packing lists, race day, after the event
-├── marketing/             ← poster text, press release, social posts, letters
-├── gallery/               ← online boat gallery and records board
-├── assets/                ← logos, photos, drawings
-├── scripts/               ← helper that publishes wiki/ to the GitHub Wiki
-├── CONTRIBUTING.md        ← how to share your improvements
-├── CODE_OF_CONDUCT.md
-└── LICENSE.md
-```
-
-Everything is written in **Markdown** (`.md`). You can edit it in any text editor, in [Obsidian](https://obsidian.md), in VS Code or directly on GitHub. To make printable documents, open a file in LibreOffice, or convert it with [Pandoc](https://pandoc.org): `pandoc rules/official-rules.md -o rules.pdf`.
+> [!TIP]
+> The full handbook is in the **[Wiki](https://github.com/Pixeldieb/Rabenregatta/wiki)**. Its source files are in the [`wiki/`](wiki/Home.md) folder. Edit them there, and every change is published to the Wiki automatically.
 
 ---
 
@@ -80,6 +107,29 @@ This kit is a starting point, not a recipe you must follow. Your creek, your vil
 3. **Everyone gets a moment of success.** There are prizes for more than just speed.
 4. **Free for children.** Taking part never costs anything for anyone aged 0–18.
 
+---
+
+## Repository map
+
+```text
+Rabenregatta/
+├── README.md              ← you are here
+├── wiki/                  ← the handbook: why, how, when (published to the Wiki tab)
+├── rules/                 ← official rules + one-page version for kids
+├── tutorials/             ← boat-building basics + design examples
+├── templates/             ← forms, score sheets, budget, survey
+├── checklists/            ← bill of materials, packing lists, race day, after the event
+├── marketing/             ← poster text, press release, social posts, letters
+├── gallery/               ← online boat gallery and records board
+├── assets/                ← logos, photos, drawings
+├── scripts/               ← helper that publishes wiki/ to the GitHub Wiki
+├── CONTRIBUTING.md        ← how to share your improvements
+├── CODE_OF_CONDUCT.md
+└── LICENSE.md
+```
+
+Everything is written in **Markdown** (`.md`). You can edit it in any text editor, in [Obsidian](https://obsidian.md), in VS Code or directly on GitHub. To make printable documents, open a file in LibreOffice, or convert it with [Pandoc](https://pandoc.org): `pandoc rules/official-rules.md -o rules.pdf`.
+
 ## Share back
 
 Did you run a Rabenregatta? Did you find a better start gate or a clever material trick? Please tell us. See [CONTRIBUTING.md](CONTRIBUTING.md).
@@ -87,3 +137,5 @@ Did you run a Rabenregatta? Did you find a better start gate or a clever materia
 ## License
 
 Content is licensed under [CC BY-SA 4.0](LICENSE.md). You may copy, change and share it, including for commercial use. Please name the source and share your changes under the same license.
+
+Photos: Raben-Regatta Kayna. Photos showing people are **not** covered by the CC license and may not be reused without permission (see [LICENSE.md](LICENSE.md#exceptions)).
