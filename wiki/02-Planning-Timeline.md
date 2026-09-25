@@ -43,6 +43,7 @@ One person can hold several roles.
 - [ ] Ask local businesses for offcuts: carpenter, joinery, wine bar (corks), café (clean cartons).
 - [ ] Publish the first announcement, **with all prizes and win conditions**. Every later announcement repeats them.
 - [ ] Hold **sponsor workshops** for concrete chicanes now. Concrete needs at least 4 weeks to cure.
+- [ ] Go through the [bill of materials](../checklists/bill-of-materials.md): what can you borrow, what must you buy? Reserve tents, tables and benches.
 - [ ] Buy or borrow Euroboxes and tools. See [Eurobox system](06-Eurobox-System.md).
 
 ### 6 weeks before

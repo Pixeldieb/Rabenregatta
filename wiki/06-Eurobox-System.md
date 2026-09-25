@@ -13,7 +13,7 @@ All tools and materials travel in **Euroboxes**: stackable, standard-sized plast
 | 🟡 **Yellow** | **Reused materials**: bottles, cartons, fabric scraps | Recycling arrows |
 | ⚪ **Grey** | **Connectors and consumables**: rubber bands, dowels, nails, glue, sandpaper | Screw |
 | 🔴 **Red** | **Safety**: first aid, safety glasses, gloves, sunscreen | Cross |
-| ⚫ **Black** | **Race office**: start numbers, forms, stopwatches, pens, certificates | Flag |
+| ⚫ **Black** | **Race office** (Black 1: tickets, forms, scale, stopwatches) and **gallery** (Black 2: talers, voting containers, photo station) | Flag |
 
 Euroboxes come in these colours from most suppliers. If you only have grey boxes, use coloured tape or labels on all four sides.
 
@@ -48,9 +48,10 @@ For tool boxes, a **shadow board** in the box is very helpful. A foam insert or 
 | 🟡 Yellow: reused materials | 2 × 600 × 400 × 320 |
 | ⚪ Grey: connectors | 2 × 400 × 300 × 120 |
 | 🔴 Red: safety | 1 × 400 × 300 × 120 |
-| ⚫ Black: race office | 1 × 600 × 400 × 220 |
+| ⚫ Black 1: race office | 1 × 600 × 400 × 220 |
+| ⚫ Black 2: gallery, vote, photo station | 1 × 600 × 400 × 320 |
 
-**Total: 10 boxes.** They fit in a car boot or on a hand truck.
+**Total: 11 boxes.** They fit in a car boot or on a hand truck. Everything else (tents, tables, race course, banner) is in the [bill of materials](../checklists/bill-of-materials.md).
 
 ## Share the kit
 

@@ -1,6 +1,6 @@
 # Eurobox Packing Lists
 
-For a kit for about 20 builders at the same time. Print each list and put it in a sleeve on the front of the box. See [Eurobox system](../wiki/06-Eurobox-System.md).
+For a kit for about 20 builders at the same time. The complete list including infrastructure, race course and marketing is the [bill of materials](bill-of-materials.md). Print each list and put it in a sleeve on the front of the box. See [Eurobox system](../wiki/06-Eurobox-System.md).
 
 Columns: **Target** = quantity that belongs in the box · **Out** = counted before the event · **Back** = counted after.
 
@@ -75,9 +75,6 @@ Columns: **Target** = quantity that belongs in the box · **Out** = counted befo
 | Sandpaper (grits 80, 120, 180) | 10 each | | |
 | Wood glue D3 (small bottles) | 3 | | |
 | Water-based paints, brushes | 1 set | | |
-| Cloakroom tickets, colour A (kids, 1–499): start number + ice cream stub | 1 roll | | |
-| Cloakroom tickets, colour B (grown-ups, from 500), stubs removed | 1 roll | | |
-| Envelope for removed stubs, ice cream stamp + ink pad (optional) | 1 each | | |
 | Masking tape (for marking only, not for boats) | 2 | | |
 
 ## 🔴 Red: Safety (400 × 300 × 120)
@@ -92,25 +89,38 @@ Columns: **Target** = quantity that belongs in the box · **Out** = counted befo
 | Emergency sheet: numbers, address, map | 1 | | |
 | Tool briefing picture cards | 1 set | | |
 
-## ⚫ Black: Race office (600 × 400 × 220)
+## ⚫ Black 1: Race office (600 × 400 × 220)
 
 | Item | Target | Out | Back |
 |---|---|---|---|
-| Boat register (clusters of three): kids' list and grown-ups' list, score sheets | 1 set each | | |
-| Builder pledges, photo consent forms (blank) | 50 each | | |
-| Certificates (blank) | 60 | | |
-| Clipboards, pens | 6 | | |
+| Boat register (clusters of three): kids' list and grown-ups' list | 5 + 2 sheets | | |
+| Cloakroom tickets, colour A (kids, 1–499): start number + ice cream stub | 1 roll | | |
+| Cloakroom tickets, colour B (grown-ups, from 500), stubs removed | 1 roll | | |
+| Extra ice cream vouchers (from no. 501) | 40 | | |
+| Envelope for removed stubs | 1 | | |
+| Ice cream stamp + ink pad (optional) | 1 | | |
+| Prize catalogue, sponsor sheets, jury score sheets | 1 set | | |
+| Photo consent forms (blank) | 50 | | |
+| Certificates (blank) | boats + 20% | | |
+| Clipboards, pens | 6 / 10 | | |
 | Stopwatches (or phones) | 3 | | |
-| Prize catalogue, sponsor sheets | 1 set | | |
 | Kitchen scale (1 g, up to 5 kg) + ruler 50 cm | 1 each | | |
-| A4 grid mat for the photo station | 1 | | |
-| Gold talers (one per participant + 20%) | | | |
-| Silver talers (one per expected spectator + 20%) | | | |
-| Voting containers with number cards | 50 | | |
-| Extra ice cream vouchers for children without their own boat | | | |
-| Rubber ducks, numbered (optional) | | | |
-| Prize bags | | | |
 | Megaphone + batteries (charged) | 1 | | |
 | "No photo" stickers / wristbands | 20 | | |
+| Cash box + receipt book (grown-up start fees, donations) | 1 | | |
 | Kit logbook | 1 | | |
-| Cash box + receipt book (grown-up start fees, duck race) | 1 | | |
+
+## ⚫ Black 2: Gallery, vote and photo station (600 × 400 × 320)
+
+| Item | Target | Out | Back |
+|---|---|---|---|
+| Gold talers (one per participant + 20%) | | | |
+| Silver talers (one per expected spectator + 20%) | | | |
+| Voting containers | 60 | | |
+| Number cards for the containers | 60 | | |
+| A4 grid mat for the photo station | 1 | | |
+| Neutral photo backdrop, small tripod | 1 each | | |
+| Prize bags | | | |
+| Rubber ducks, numbered (optional) | | | |
+
+See also the [bill of materials](bill-of-materials.md) for everything that doesn't fit into boxes: tents, tables, race course, banner.

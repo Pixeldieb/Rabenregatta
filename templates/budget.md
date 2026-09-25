@@ -1,6 +1,6 @@
 # Budget Template
 
-Rough values for about 30–50 boats. Prices are examples and vary by region and year. Many things can be **borrowed or donated**. Write "0" and name the supporter.
+Rough values for about 30–50 boats. All items and quantities: [bill of materials](../checklists/bill-of-materials.md). Prices are examples and vary by region and year. Many things can be **borrowed or donated**. Write "0" and name the supporter.
 
 ## One-off (lasts many years)
 

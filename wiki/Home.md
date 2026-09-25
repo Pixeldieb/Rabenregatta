@@ -17,6 +17,7 @@ You do not need to read everything. Start with the page you need.
 ## 3. Prepare
 
 - [Materials traffic light](05-Materials-Traffic-Light.md): what may go into a boat
+- [Bill of materials](../checklists/bill-of-materials.md): everything you need, from saws to tents
 - [Eurobox system](06-Eurobox-System.md): colour-coded boxes for tools and materials
 - [Tournament equipment](07-Tournament-Equipment.md): start board, finish board, catch net, A4 gauge
 - [Build workshops](10-Build-Workshops.md): how to run building sessions

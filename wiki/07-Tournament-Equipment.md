@@ -114,4 +114,4 @@ If you want a **footbridge for people** to cross the creek:
 
 ## Materials list and costs
 
-See [budget template](../templates/budget.md) for a cost overview. Many parts can be borrowed or donated: planks from a sawmill, nets from the sports club, stakes from the garden centre.
+All items with quantities are in the [bill of materials](../checklists/bill-of-materials.md#5-race-course). See the [budget template](../templates/budget.md) for costs. Many parts can be borrowed or donated: planks from a sawmill, nets from the sports club, stakes from the garden centre.

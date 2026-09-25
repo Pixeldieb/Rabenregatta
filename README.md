@@ -33,6 +33,7 @@ This repository is an **open kit**. Use it to run a Rabenregatta in your own vil
 | Plan an event | [Planning timeline](wiki/02-Planning-Timeline.md) |
 | Read the rules | [Official rules](rules/official-rules.md) · [Rules at a glance](rules/rules-at-a-glance.md) |
 | Learn how to build a boat | [Tutorials](tutorials/README.md) |
+| See everything we need | [Bill of materials](checklists/bill-of-materials.md) |
 | Pack the tool and material boxes | [Eurobox system](wiki/06-Eurobox-System.md) |
 | Run registration and the race office | [Registration and race office](wiki/17-Race-Office.md) |
 | Build the race equipment | [Tournament equipment](wiki/07-Tournament-Equipment.md) |
