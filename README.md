@@ -1,2 +1,79 @@
-# Rabenregatta
-Educational Project for driving experiences of self-efficacy through building boats out of recycled materials
+# 🐦‍⬛ Rabenregatta
+
+**Build your own boat. Race it on the village creek. Discover what you can do.**
+
+Rabenregatta ("raven regatta") is a small community event. Children, young people, families and adults each build a boat that fits on **one sheet of A4 paper**. They use **reused and planet-friendly materials**. Then all boats race down a local creek.
+
+It sounds simple, and it is. The point is not really the boat. The point is the moment someone watches **their own** boat float and thinks: *"I made that. I can do things."* Psychologists call this **self-efficacy**. It is one of the strongest predictors of whether people try new things, keep going and get involved in their community ([Bandura, 1977](wiki/Sources.md#bandura-1977)).
+
+This repository is an **open kit**. Use it to run a Rabenregatta in your own village.
+
+---
+
+## The idea in 30 seconds
+
+| | |
+|---|---|
+| **Boat size** | Must fit on a DIN A4 footprint (21 × 29.7 cm), max. 42 cm high |
+| **Who builds** | You. No kits, no downloaded plans, no last year's boat |
+| **Materials** | Reused or natural. No Styrofoam, no glitter, no batteries |
+| **Power** | Only the creek and the wind |
+| **Race** | Heats on the creek, then a final |
+| **Rule no. 1** | Every boat and every piece comes back out of the water |
+
+---
+
+## Where to start
+
+| I want to... | Go to |
+|---|---|
+| Understand why this works | [Why Rabenregatta?](wiki/01-Why-Rabenregatta.md) |
+| Plan an event | [Planning timeline](wiki/02-Planning-Timeline.md) |
+| Read the rules | [Official rules](rules/official-rules.md) · [Rules at a glance](rules/rules-at-a-glance.md) |
+| Learn how to build a boat | [Tutorials](tutorials/README.md) |
+| Pack the tool and material boxes | [Eurobox system](wiki/06-Eurobox-System.md) |
+| Build the race equipment | [Tournament equipment](wiki/07-Tournament-Equipment.md) |
+| Promote the event | [Marketing templates](marketing/) |
+| Print forms and checklists | [Templates](templates/) · [Checklists](checklists/) |
+| Find the science | [Sources](wiki/Sources.md) |
+
+The full handbook is in the [wiki](wiki/Home.md).
+
+---
+
+## Repository map
+
+```text
+Rabenregatta/
+├── README.md              ← you are here
+├── wiki/                  ← the handbook: why, how, when
+├── rules/                 ← official rules + one-page version for kids
+├── tutorials/             ← boat-building basics + design examples
+├── templates/             ← forms, score sheets, budget, survey
+├── checklists/            ← packing lists, race day, after the event
+├── marketing/             ← poster text, press release, social posts, letters
+├── assets/                ← logos, photos, drawings
+├── CONTRIBUTING.md        ← how to share your improvements
+├── CODE_OF_CONDUCT.md
+└── LICENSE.md
+```
+
+Everything is written in **Markdown** (`.md`). You can edit it in any text editor, in [Obsidian](https://obsidian.md), in VS Code or directly on GitHub. To make printable documents, open a file in LibreOffice, or convert it with [Pandoc](https://pandoc.org): `pandoc rules/official-rules.md -o rules.pdf`.
+
+---
+
+## Make it yours
+
+This kit is a starting point, not a recipe you must follow. Your creek, your village and your people are different. Change the rules, the age groups and the prizes. The only things we ask you to keep:
+
+1. **Self-built.** The experience only works if the boat is really yours.
+2. **Leave no trace.** Nothing stays in the creek.
+3. **Everyone gets a moment of success.** There are prizes for more than just speed.
+
+## Share back
+
+Did you run a Rabenregatta? Did you find a better start gate or a clever material trick? Please tell us. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## License
+
+Content is licensed under [CC BY-SA 4.0](LICENSE.md). You may copy, change and share it, including for commercial use. Please name the source and share your changes under the same license.
