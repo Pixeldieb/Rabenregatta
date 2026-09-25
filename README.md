@@ -37,7 +37,7 @@ This repository is an **open kit**. Use it to run a Rabenregatta in your own vil
 | Print forms and checklists | [Templates](templates/) · [Checklists](checklists/) |
 | Find the science | [Sources](wiki/Sources.md) |
 
-The full handbook is in the [wiki](wiki/Home.md).
+The full handbook is in the **[Wiki](https://github.com/Pixeldieb/Rabenregatta/wiki)**. Its source files are in the [`wiki/`](wiki/Home.md) folder. Edit them there, and every change is published to the Wiki automatically.
 
 ---
 
@@ -46,13 +46,14 @@ The full handbook is in the [wiki](wiki/Home.md).
 ```text
 Rabenregatta/
 ├── README.md              ← you are here
-├── wiki/                  ← the handbook: why, how, when
+├── wiki/                  ← the handbook: why, how, when (published to the Wiki tab)
 ├── rules/                 ← official rules + one-page version for kids
 ├── tutorials/             ← boat-building basics + design examples
 ├── templates/             ← forms, score sheets, budget, survey
 ├── checklists/            ← packing lists, race day, after the event
 ├── marketing/             ← poster text, press release, social posts, letters
 ├── assets/                ← logos, photos, drawings
+├── scripts/               ← helper that publishes wiki/ to the GitHub Wiki
 ├── CONTRIBUTING.md        ← how to share your improvements
 ├── CODE_OF_CONDUCT.md
 └── LICENSE.md

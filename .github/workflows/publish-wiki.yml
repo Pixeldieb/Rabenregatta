@@ -1,0 +1,46 @@
+# Publishes the wiki/ folder to the GitHub Wiki on every push to main.
+# The wiki/ folder is the source; do not edit pages in the Wiki tab,
+# they will be overwritten.
+name: Publish wiki
+
+on:
+  push:
+    branches: [main]
+    paths: ["wiki/**", "scripts/build_wiki.py", ".github/workflows/publish-wiki.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-wiki
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check out wiki repository
+        run: |
+          git clone "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.wiki.git" wiki-out \
+            || { echo "::error::Wiki not initialised. Open the Wiki tab on GitHub and save a first page once."; exit 1; }
+
+      - name: Build pages
+        env:
+          REPO_URL: ${{ github.server_url }}/${{ github.repository }}
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          find wiki-out -maxdepth 1 -name '*.md' -delete
+          python3 scripts/build_wiki.py wiki-out
+
+      - name: Push to wiki
+        working-directory: wiki-out
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "No changes."; exit 0; fi
+          git commit -m "Sync wiki from ${GITHUB_SHA::7}"
+          git push

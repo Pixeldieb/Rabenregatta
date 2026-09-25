@@ -35,4 +35,4 @@ You do not need to read everything. Start with the page you need.
 
 ---
 
-**Tip:** You can use this folder as a GitHub wiki, too. Copy the files into the wiki repository (`Rabenregatta.wiki.git`). `_Sidebar.md` then becomes the navigation.
+**How to edit this handbook:** The pages live in the [`wiki/` folder](./) of the repository. Every change there is published to the GitHub Wiki automatically. Please edit the files in `wiki/`, not in the Wiki tab: changes made in the Wiki tab are overwritten.
