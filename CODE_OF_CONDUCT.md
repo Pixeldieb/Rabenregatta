@@ -12,9 +12,10 @@ Rabenregatta is about people discovering what they can do. That only works in a 
 
 ## We do not
 
-- laugh at a boat that sinks. Sinking is part of learning.
+- laugh at a boat that sinks. Sinking is part of learning and improving.
 - harass, insult or exclude anyone.
 - share photos or personal data of others without consent.
+- address the participants by name but rather use the name of their creation (the name of the boat) to encourage versioning and separation of personal insecurities from the creation process.
 
 ## If something goes wrong
 
